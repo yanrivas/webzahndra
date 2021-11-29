@@ -1,0 +1,471 @@
+0000.001 (0) Opened log file at time: Mon, 26 Mar 2018 03:16:58 +0000 on http://localhost/wordpress
+0000.034 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.9.4 PHP: 7.2.2 (apache2handler, Windows NT YN-PC 10.0 build 16299 (Windows 10) i586) MySQL: 5.5.5 WPLANG: es_VE Server: Apache/2.4.29 (Win32) OpenSSL/1.1.0g PHP/7.2.2 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 58.1M | 2M) multisite: N openssl: OpenSSL 1.1.0g  2 Nov 2017 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.059 (0) Free space on disk containing Updraft's temporary directory: 20158 MB
+0000.173 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.250 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.350 (0) Set semaphore last lock (fd) time to 2018-03-26 03:16:59
+0000.375 (0) Semaphore lock (fd) complete
+0000.458 (0) Backup run: resumption=0, nonce=547424158f75, begun at=1522034218 (1s ago), job type=backup
+0000.510 (0) Scheduling a resumption (1) after 300 seconds (1522034519) in case this run gets aborted
+0000.575 (0) Checking if we have a zip executable available
+0000.634 (0) Creation of backups of directories: beginning
+0000.833 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0012.031 (0) Total entities for the zip file: 1018 directories, 7344 files (0 skipped as non-modified), 134 MB
+0012.109 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0014.164 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 100 files added (on-disk size: 169.9 KB)
+0015.089 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 137 (138) files added so far); re-opening (prior size: 169.9 KB)
+0017.412 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 200 files added (on-disk size: 877.2 KB)
+0018.079 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.5 MB, 141 (279) files added so far); re-opening (prior size: 877.2 KB)
+0019.126 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 300 files added (on-disk size: 1888.2 KB)
+0020.918 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 400 files added (on-disk size: 1888.2 KB)
+0021.097 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 124 (403) files added so far); re-opening (prior size: 1888.2 KB)
+0024.045 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 500 files added (on-disk size: 2671 KB)
+0024.308 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 98 (501) files added so far); re-opening (prior size: 2671 KB)
+0026.771 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 600 files added (on-disk size: 2868.9 KB)
+0027.139 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 110 (611) files added so far); re-opening (prior size: 2868.9 KB)
+0031.073 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 700 files added (on-disk size: 4487 KB)
+0031.194 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 90 (701) files added so far); re-opening (prior size: 4487 KB)
+0034.178 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 94 (795) files added so far); re-opening (prior size: 4702.6 KB)
+0034.879 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 800 files added (on-disk size: 4978.8 KB)
+0037.133 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 45 (840) files added so far); re-opening (prior size: 4978.8 KB)
+0039.511 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 900 files added (on-disk size: 5151.7 KB)
+0040.079 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 148 (988) files added so far); re-opening (prior size: 5151.7 KB)
+0040.791 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 1000 files added (on-disk size: 5482.3 KB)
+0043.100 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 77 (1065) files added so far); re-opening (prior size: 5482.3 KB)
+0044.670 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 1100 files added (on-disk size: 5664.9 KB)
+0046.422 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 62 (1127) files added so far); re-opening (prior size: 5664.9 KB)
+0048.631 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 1200 files added (on-disk size: 5789.1 KB)
+0049.088 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 92 (1219) files added so far); re-opening (prior size: 5789.1 KB)
+0052.251 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 43 (1262) files added so far); re-opening (prior size: 5934.9 KB)
+0055.415 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 35 (1297) files added so far); re-opening (prior size: 5991.4 KB)
+0056.241 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 1300 files added (on-disk size: 6059.4 KB)
+0058.575 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 102 (1399) files added so far); re-opening (prior size: 6059.4 KB)
+0059.314 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 1400 files added (on-disk size: 6670.1 KB)
+0061.931 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 1500 files added (on-disk size: 6670.1 KB)
+0062.098 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 108 (1507) files added so far); re-opening (prior size: 6670.1 KB)
+0064.355 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 1600 files added (on-disk size: 6957.5 KB)
+0065.085 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 169 (1676) files added so far); re-opening (prior size: 6957.5 KB)
+0066.944 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 1700 files added (on-disk size: 7573.1 KB)
+0068.078 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.9 MB, 99 (1775) files added so far); re-opening (prior size: 7573.1 KB)
+0069.465 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 1800 files added (on-disk size: 8409.7 KB)
+0071.088 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (11.8 MB, 95 (1870) files added so far); re-opening (prior size: 8409.7 KB)
+0073.130 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 1900 files added (on-disk size: 12673.3 KB)
+0075.150 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (23.1 MB, 121 (1991) files added so far); re-opening (prior size: 12673.3 KB)
+0077.473 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 2000 files added (on-disk size: 17250.1 KB)
+0079.172 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 2100 files added (on-disk size: 17250.1 KB)
+0080.136 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8.1 MB, 175 (2166) files added so far); re-opening (prior size: 17250.1 KB)
+0082.118 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 2200 files added (on-disk size: 19601.3 KB)
+0084.108 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 122 (2288) files added so far); re-opening (prior size: 19601.3 KB)
+0084.960 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 2300 files added (on-disk size: 20013.2 KB)
+0085.325 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 2400 files added (on-disk size: 20013.2 KB)
+0085.911 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 2500 files added (on-disk size: 20013.2 KB)
+0086.357 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 2600 files added (on-disk size: 20013.2 KB)
+0086.614 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 2700 files added (on-disk size: 20013.2 KB)
+0086.810 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.9 MB, 7344 files batched, 501 (2789) added so far); re-opening (prior size: 20013.2 KB)
+0089.168 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 2800 files added (on-disk size: 23108 KB)
+0091.111 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 96 (2885) files added so far); re-opening (prior size: 23108 KB)
+0095.339 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 10 (2895) files added so far); re-opening (prior size: 23971 KB)
+0095.993 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 2900 files added (on-disk size: 24024.8 KB)
+0099.714 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 8 (2903) files added so far); re-opening (prior size: 24024.8 KB)
+0104.040 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 1 (2904) files added so far); re-opening (prior size: 24079.4 KB)
+0106.555 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 3000 files added (on-disk size: 24135.3 KB)
+0107.085 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.2 MB, 140 (3044) files added so far); re-opening (prior size: 24135.3 KB)
+0109.104 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 3100 files added (on-disk size: 25103.3 KB)
+0110.375 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 3200 files added (on-disk size: 25103.3 KB)
+0111.093 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 214 (3258) files added so far); re-opening (prior size: 25103.3 KB)
+0113.410 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 3300 files added (on-disk size: 25192.3 KB)
+0114.080 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 75 (3333) files added so far); re-opening (prior size: 25192.3 KB)
+0116.956 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 3400 files added (on-disk size: 25456.8 KB)
+0117.083 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 71 (3404) files added so far); re-opening (prior size: 25456.8 KB)
+0119.587 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 3500 files added (on-disk size: 25712.4 KB)
+0120.091 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 123 (3527) files added so far); re-opening (prior size: 25712.4 KB)
+0123.022 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 3600 files added (on-disk size: 26168 KB)
+0123.096 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 75 (3602) files added so far); re-opening (prior size: 26168 KB)
+0125.288 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 3700 files added (on-disk size: 26429.8 KB)
+0126.085 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 177 (3779) files added so far); re-opening (prior size: 26429.8 KB)
+0127.504 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 3800 files added (on-disk size: 26528.5 KB)
+0128.377 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 3900 files added (on-disk size: 26528.5 KB)
+0129.280 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 4000 files added (on-disk size: 26528.5 KB)
+0130.085 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 295 (4074) files added so far); re-opening (prior size: 26528.5 KB)
+0131.708 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 4100 files added (on-disk size: 26650.6 KB)
+0132.737 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 4200 files added (on-disk size: 26650.6 KB)
+0133.081 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 153 (4227) files added so far); re-opening (prior size: 26650.6 KB)
+0134.723 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 4300 files added (on-disk size: 26713.5 KB)
+0136.556 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.3 MB, 127 (4354) files added so far); re-opening (prior size: 26713.5 KB)
+0139.375 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 4400 files added (on-disk size: 28718.6 KB)
+0140.906 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 4500 files added (on-disk size: 28718.6 KB)
+0141.092 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.5 MB, 150 (4504) files added so far); re-opening (prior size: 28718.6 KB)
+0143.625 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 4600 files added (on-disk size: 30474.8 KB)
+0145.145 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 141 (4645) files added so far); re-opening (prior size: 30474.8 KB)
+0148.147 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 18 (4663) files added so far); re-opening (prior size: 31398.7 KB)
+0150.576 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 4700 files added (on-disk size: 31485 KB)
+0151.082 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.6 MB, 75 (4738) files added so far); re-opening (prior size: 31485 KB)
+0153.324 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 4800 files added (on-disk size: 32149.8 KB)
+0155.100 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (11.4 MB, 160 (4898) files added so far); re-opening (prior size: 32149.8 KB)
+0158.566 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 4900 files added (on-disk size: 35300.1 KB)
+0161.002 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 5000 files added (on-disk size: 35300.1 KB)
+0161.082 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 105 (5003) files added so far); re-opening (prior size: 35300.1 KB)
+0164.771 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 5100 files added (on-disk size: 35404.9 KB)
+0165.090 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 111 (5114) files added so far); re-opening (prior size: 35404.9 KB)
+0167.956 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 5200 files added (on-disk size: 35542.7 KB)
+0168.094 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 89 (5203) files added so far); re-opening (prior size: 35542.7 KB)
+0171.095 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 29 (5232) files added so far); re-opening (prior size: 35648.7 KB)
+0173.850 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 5300 files added (on-disk size: 35826.7 KB)
+0175.103 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 115 (5347) files added so far); re-opening (prior size: 35826.7 KB)
+0178.186 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 5400 files added (on-disk size: 35942 KB)
+0179.104 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 83 (5430) files added so far); re-opening (prior size: 35942 KB)
+0182.549 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 5500 files added (on-disk size: 36041.4 KB)
+0183.106 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 87 (5517) files added so far); re-opening (prior size: 36041.4 KB)
+0187.066 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 5600 files added (on-disk size: 36238.4 KB)
+0187.120 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 84 (5601) files added so far); re-opening (prior size: 36238.4 KB)
+0190.504 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 5700 files added (on-disk size: 36441.3 KB)
+0191.104 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 115 (5716) files added so far); re-opening (prior size: 36441.3 KB)
+0194.516 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 5800 files added (on-disk size: 36566.8 KB)
+0195.082 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 118 (5834) files added so far); re-opening (prior size: 36566.8 KB)
+0197.406 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 5900 files added (on-disk size: 36854.6 KB)
+0199.109 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 133 (5967) files added so far); re-opening (prior size: 36854.6 KB)
+0202.381 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 6000 files added (on-disk size: 37864 KB)
+0203.091 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 46 (6013) files added so far); re-opening (prior size: 37864 KB)
+0207.302 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 64 (6077) files added so far); re-opening (prior size: 38266.8 KB)
+0210.804 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 6100 files added (on-disk size: 38482.1 KB)
+0211.177 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 30 (6107) files added so far); re-opening (prior size: 38482.1 KB)
+0215.090 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 8 (6115) files added so far); re-opening (prior size: 38578.1 KB)
+0219.080 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 19 (6134) files added so far); re-opening (prior size: 38590.7 KB)
+0223.125 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 21 (6155) files added so far); re-opening (prior size: 38626.3 KB)
+0226.180 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 18 (6173) files added so far); re-opening (prior size: 38658.9 KB)
+0229.239 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 17 (6190) files added so far); re-opening (prior size: 38704.8 KB)
+0232.899 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 6200 files added (on-disk size: 38739.6 KB)
+0233.081 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 13 (6203) files added so far); re-opening (prior size: 38739.6 KB)
+0237.098 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 83 (6286) files added so far); re-opening (prior size: 38762.8 KB)
+0239.154 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 6300 files added (on-disk size: 39014.5 KB)
+0240.978 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 6400 files added (on-disk size: 39014.5 KB)
+0241.078 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 137 (6423) files added so far); re-opening (prior size: 39014.5 KB)
+0243.831 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 6500 files added (on-disk size: 39461.1 KB)
+0245.111 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 163 (6586) files added so far); re-opening (prior size: 39461.1 KB)
+0247.430 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 6600 files added (on-disk size: 39913 KB)
+0249.152 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 44 (6630) files added so far); re-opening (prior size: 39913 KB)
+0253.147 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 52 (6682) files added so far); re-opening (prior size: 39959.2 KB)
+0256.835 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 6700 files added (on-disk size: 40009.9 KB)
+0257.111 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 23 (6705) files added so far); re-opening (prior size: 40009.9 KB)
+0258.199 (0) The scheduled resumption is within 45 seconds - will reschedule
+0258.330 (0) Rescheduling resumption 1: moving to 345 seconds from now (1522034822)
+0258.528 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0260.212 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 6800 files added (on-disk size: 40033.2 KB)
+0261.514 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 125 (6830) files added so far); re-opening (prior size: 40033.2 KB)
+0266.101 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 6 (6836) files added so far); re-opening (prior size: 40788.3 KB)
+0269.084 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 47 (6883) files added so far); re-opening (prior size: 40805.9 KB)
+0271.760 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 6900 files added (on-disk size: 40936.4 KB)
+0273.100 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 59 (6942) files added so far); re-opening (prior size: 40936.4 KB)
+0276.955 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 7000 files added (on-disk size: 41216.6 KB)
+0277.135 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 61 (7003) files added so far); re-opening (prior size: 41216.6 KB)
+0281.093 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 54 (7057) files added so far); re-opening (prior size: 41424.3 KB)
+0284.126 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 7100 files added (on-disk size: 41593.9 KB)
+0285.088 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 106 (7163) files added so far); re-opening (prior size: 41593.9 KB)
+0289.093 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 33 (7196) files added so far); re-opening (prior size: 42314 KB)
+0292.144 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 7200 files added (on-disk size: 43234.9 KB)
+0293.435 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip.tmp: 7300 files added (on-disk size: 43234.9 KB)
+0294.178 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 113 (7309) files added so far); re-opening (prior size: 43234.9 KB)
+0298.238 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 11 (7320) files added so far); re-opening (prior size: 44075 KB)
+0302.526 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 13 (7333) files added so far); re-opening (prior size: 44098 KB)
+0307.166 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 7 (7340) files added so far); re-opening (prior size: 44125.2 KB)
+0312.448 (0) Created plugins zip (0) - 44144.8 KB in 311.6 s (141.7 KB/s) (sha1: de97ab3696975da47c58969b0028b6536d8c57dc, sha256: 2ba88991f824bbfbc3104f888ed72e2642e601590c91c63fd6ce9f8cf7bfdb5a)
+0312.541 (0) Beginning creation of dump of themes (split every: 400 MB)
+0315.442 (0) Total entities for the zip file: 191 directories, 1103 files (0 skipped as non-modified), 37.6 MB
+0315.684 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0315.935 (0) The time we have been running (315.8) is approaching the resumption interval (345) - increasing resumption interval to 346
+0317.570 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-themes.zip.tmp: 100 files added (on-disk size: 31.2 KB)
+0318.123 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.7 MB, 127 (128) files added so far); re-opening (prior size: 31.2 KB)
+0320.301 (0) The time we have been running (319.7) is approaching the resumption interval (346) - increasing resumption interval to 350
+0321.482 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-themes.zip.tmp: 200 files added (on-disk size: 1583.2 KB)
+0323.119 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 101 (229) files added so far); re-opening (prior size: 1583.2 KB)
+0323.917 (0) The time we have been running (323.7) is approaching the resumption interval (350) - increasing resumption interval to 354
+0326.106 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 46 (275) files added so far); re-opening (prior size: 3176.5 KB)
+0326.513 (0) The time we have been running (326.3) is approaching the resumption interval (354) - increasing resumption interval to 357
+0327.543 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-themes.zip.tmp: 300 files added (on-disk size: 3356.1 KB)
+0328.905 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-themes.zip.tmp: 400 files added (on-disk size: 3356.1 KB)
+0329.092 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (22.7 MB, 135 (410) files added so far); re-opening (prior size: 3356.1 KB)
+0330.142 (0) The time we have been running (330) is approaching the resumption interval (357) - increasing resumption interval to 360
+0333.010 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-themes.zip.tmp: 500 files added (on-disk size: 26362.3 KB)
+0333.079 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 95 (505) files added so far); re-opening (prior size: 26362.3 KB)
+0334.477 (0) The time we have been running (334.2) is approaching the resumption interval (360) - increasing resumption interval to 365
+0335.780 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-themes.zip.tmp: 600 files added (on-disk size: 26497.3 KB)
+0337.151 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 141 (646) files added so far); re-opening (prior size: 26497.3 KB)
+0338.628 (0) The time we have been running (338.4) is approaching the resumption interval (365) - increasing resumption interval to 369
+0340.798 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-themes.zip.tmp: 700 files added (on-disk size: 27116.8 KB)
+0341.085 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 68 (714) files added so far); re-opening (prior size: 27116.8 KB)
+0341.638 (0) The time we have been running (341.5) is approaching the resumption interval (369) - increasing resumption interval to 372
+0343.687 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-themes.zip.tmp: 800 files added (on-disk size: 27197.5 KB)
+0344.096 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 107 (821) files added so far); re-opening (prior size: 27197.5 KB)
+0345.556 (0) The time we have been running (344.8) is approaching the resumption interval (372) - increasing resumption interval to 375
+0349.167 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 74 (895) files added so far); re-opening (prior size: 27323.1 KB)
+0351.145 (0) The time we have been running (350.7) is approaching the resumption interval (375) - increasing resumption interval to 381
+0351.463 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-themes.zip.tmp: 900 files added (on-disk size: 27447.8 KB)
+0354.118 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 88 (983) files added so far); re-opening (prior size: 27447.8 KB)
+0355.691 (0) The time we have been running (354.9) is approaching the resumption interval (381) - increasing resumption interval to 385
+0356.480 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-themes.zip.tmp: 1000 files added (on-disk size: 28238 KB)
+0358.115 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 40 (1023) files added so far); re-opening (prior size: 28238 KB)
+0359.567 (0) The time we have been running (359.4) is approaching the resumption interval (385) - increasing resumption interval to 390
+0362.126 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 37 (1060) files added so far); re-opening (prior size: 29363.2 KB)
+0362.702 (0) The time we have been running (362.6) is approaching the resumption interval (390) - increasing resumption interval to 393
+0365.094 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 30 (1090) files added so far); re-opening (prior size: 29776.7 KB)
+0366.300 (0) The time we have been running (365.6) is approaching the resumption interval (393) - increasing resumption interval to 396
+0367.690 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-themes.zip.tmp: 1100 files added (on-disk size: 29906.4 KB)
+0369.177 (0) The time we have been running (368.5) is approaching the resumption interval (396) - increasing resumption interval to 399
+0370.959 (0) Created themes zip (0) - 30379.4 KB in 58.4 s (520.6 KB/s) (sha1: c65a9d52a0c95e99f437967175da7a8db95152d4, sha256: 521a5379fda8c44e8a2b8e2b26681609c088449d002835e5087d1395aa429082)
+0371.042 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0371.083 (0) Looking for candidates to back up in: C:\xampp\htdocs\wordpress/wp-content/uploads
+0371.118 (0) finding files: 2013: adding to list (1)
+0371.149 (0) finding files: 2014: adding to list (2)
+0371.192 (0) finding files: 2016: adding to list (3)
+0371.268 (0) finding files: 2017: adding to list (4)
+0371.300 (0) finding files: 2018: adding to list (5)
+0371.333 (0) finding files: masterslider: adding to list (6)
+0371.367 (0) finding files: revslider: adding to list (7)
+0371.408 (0) finding files: wc-logs: adding to list (8)
+0371.442 (0) finding files: woocommerce_uploads: adding to list (9)
+0371.475 (0) finding files: wpallimport: adding to list (10)
+0371.508 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0373.476 (0) Total entities for the zip file: 181 directories, 1083 files (0 skipped as non-modified), 56.1 MB
+0374.080 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 36 (36) files added so far); re-opening (prior size: 0 KB)
+0374.591 (0) The time we have been running (374.5) is approaching the resumption interval (399) - increasing resumption interval to 405
+0375.195 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-uploads.zip.tmp: 100 files added (on-disk size: 2084.4 KB)
+0376.366 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-uploads.zip.tmp: 200 files added (on-disk size: 2084.4 KB)
+0377.087 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (12.1 MB, 211 (247) files added so far); re-opening (prior size: 2084.4 KB)
+0379.253 (0) The time we have been running (378.7) is approaching the resumption interval (405) - increasing resumption interval to 409
+0380.030 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-uploads.zip.tmp: 300 files added (on-disk size: 14516.1 KB)
+0380.924 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-uploads.zip.tmp: 400 files added (on-disk size: 14516.1 KB)
+0381.279 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-uploads.zip.tmp: 500 files added (on-disk size: 14516.1 KB)
+0382.105 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (21.5 MB, 282 (529) files added so far); re-opening (prior size: 14516.1 KB)
+0384.734 (0) The time we have been running (384.4) is approaching the resumption interval (409) - increasing resumption interval to 415
+0386.705 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-uploads.zip.tmp: 600 files added (on-disk size: 36556 KB)
+0387.078 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (13.7 MB, 106 (635) files added so far); re-opening (prior size: 36556 KB)
+0390.043 (0) The time we have been running (389.8) is approaching the resumption interval (415) - increasing resumption interval to 420
+0390.724 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-uploads.zip.tmp: 700 files added (on-disk size: 50564.4 KB)
+0391.026 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-uploads.zip.tmp: 800 files added (on-disk size: 50564.4 KB)
+0391.242 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-uploads.zip.tmp: 900 files added (on-disk size: 50564.4 KB)
+0391.456 (0) Zip: backup_2018-03-25-2116_Conextuval_547424158f75-uploads.zip.tmp: 1000 files added (on-disk size: 50564.4 KB)
+0398.040 (0) The time we have been running (397.9) is approaching the resumption interval (420) - increasing resumption interval to 428
+0399.452 (0) Created uploads zip (0) - 57559.5 KB in 27.9 s (2063.9 KB/s) (sha1: 175bf300f776c7218ac0c69c3771f7831b192661, sha256: ce254c247deb4f80d5fe4b0ad05da8ccdbb733b872338f2b3b0b214071a6757c)
+0399.507 (0) Beginning backup of other directories found in the content directory (index: 0)
+0399.541 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0399.565 (0) Looking for candidates to back up in: C:\xampp\htdocs\wordpress/wp-content
+0399.591 (0) finding files: index.php: adding to list (1)
+0399.632 (0) finding files: languages: adding to list (2)
+0399.657 (0) finding files: plugins: skipping: this is the plugins directory
+0399.698 (0) finding files: themes: skipping: this is the themes directory
+0399.724 (0) finding files: updraft: skipping: this is the updraft directory
+0399.748 (0) finding files: upgrade: skipping: excluded by options
+0399.774 (0) finding files: uploads: skipping: this is the uploads directory
+0399.939 (0) Total entities for the zip file: 3 directories, 21 files (0 skipped as non-modified), 3.6 MB
+0401.049 (0) The time we have been running (401) is approaching the resumption interval (428) - increasing resumption interval to 431
+0401.269 (0) Created others zip (0) - 1002.5 KB in 1.4 s (695.5 KB/s) (sha1: e6aa26a0279f398f6b18db7af553eebfb3e3e694, sha256: 89b78caab4e061e46d8597342e1eb572d0d15adcc457d2065b785a4ec11a6125)
+0401.399 (0) Saving backup status to database (elements: 8)
+0401.449 (0) Beginning creation of database dump (WordPress DB)
+0401.919 (0) Table wp_options: Total expected rows (approximate): 396
+0402.087 (0) Table wp_options: Total rows added: 398 in 0.09 seconds
+0402.156 (0) Table wp_options: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_options.table.gz - 78.1 KB)
+0402.340 (0) The time we have been running (402.2) is approaching the resumption interval (431) - increasing resumption interval to 433
+0402.481 (0) Table wp_users: Total expected rows (approximate): 0
+0402.560 (0) Table wp_users: Total rows added: 1 in 0.04 seconds
+0402.603 (0) Table wp_users: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_users.table.gz - 0.5 KB)
+0402.831 (0) Table wp_usermeta: Total expected rows (approximate): 44
+0402.894 (0) Table wp_usermeta: Total rows added: 47 in 0.03 seconds
+0403.026 (0) Table wp_usermeta: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_usermeta.table.gz - 1.8 KB)
+0403.279 (0) The time we have been running (403.1) is approaching the resumption interval (433) - increasing resumption interval to 434
+0403.564 (0) Table wp_commentmeta: Total expected rows (approximate): 9
+0403.625 (0) Table wp_commentmeta: Total rows added: 9 in 0.03 seconds
+0403.665 (0) Table wp_commentmeta: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_commentmeta.table.gz - 0.5 KB)
+0403.753 (0) Table wp_comments: Total expected rows (approximate): 17
+0403.802 (0) Table wp_comments: Total rows added: 17 in 0.03 seconds
+0403.857 (0) Table wp_comments: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_comments.table.gz - 1.4 KB)
+0404.067 (0) Table wp_links: Total expected rows (approximate): 0
+0404.117 (0) Table wp_links: Total rows added: 0 in 0.03 seconds
+0404.196 (0) Table wp_links: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_links.table.gz - 0.4 KB)
+0404.653 (0) The time we have been running (404.2) is approaching the resumption interval (434) - increasing resumption interval to 435
+0404.804 (0) Table wp_postmeta: Total expected rows (approximate): 2229
+0405.132 (0) Table wp_postmeta: Total rows added: 2314 in 0.31 seconds
+0405.212 (0) Table wp_postmeta: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_postmeta.table.gz - 177.1 KB)
+0405.574 (0) The time we have been running (405.3) is approaching the resumption interval (435) - increasing resumption interval to 436
+0405.675 (0) Table wp_posts: Total expected rows (approximate): 171
+0405.902 (0) Table wp_posts: Total rows added: 180 in 0.17 seconds
+0406.021 (0) Table wp_posts: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_posts.table.gz - 95.9 KB)
+0406.507 (0) The time we have been running (406.3) is approaching the resumption interval (436) - increasing resumption interval to 437
+0406.662 (0) Table wp_term_relationships: Total expected rows (approximate): 16
+0406.763 (0) Table wp_term_relationships: Total rows added: 16 in 0.05 seconds
+0406.798 (0) Table wp_term_relationships: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0406.921 (0) Table wp_term_taxonomy: Total expected rows (approximate): 81
+0407.003 (0) Table wp_term_taxonomy: Total rows added: 74 in 0.04 seconds
+0407.353 (0) Table wp_term_taxonomy: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_term_taxonomy.table.gz - 0.9 KB)
+0407.532 (0) The time we have been running (407.4) is approaching the resumption interval (437) - increasing resumption interval to 438
+0407.675 (0) Table wp_termmeta: Total expected rows (approximate): 35
+0407.736 (0) Table wp_termmeta: Total rows added: 35 in 0.04 seconds
+0407.785 (0) Table wp_termmeta: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_termmeta.table.gz - 0.6 KB)
+0407.871 (0) Table wp_terms: Total expected rows (approximate): 74
+0407.912 (0) Table wp_terms: Total rows added: 74 in 0.02 seconds
+0408.103 (0) Table wp_terms: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_terms.table.gz - 1.4 KB)
+0408.341 (0) The time we have been running (408.2) is approaching the resumption interval (438) - increasing resumption interval to 439
+0408.492 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 31
+0408.551 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 31 in 0.03 seconds
+0408.600 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.7 KB)
+0408.721 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0408.806 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.07 seconds
+0408.835 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0408.924 (0) Table wp_masterslider_options: Total expected rows (approximate): 6
+0409.300 (0) Table wp_masterslider_options: Total rows added: 6 in 0.19 seconds
+0409.366 (0) Table wp_masterslider_options: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_masterslider_options.table.gz - 6.9 KB)
+0409.514 (0) The time we have been running (409.4) is approaching the resumption interval (439) - increasing resumption interval to 440
+0409.697 (0) Table wp_masterslider_sliders: Total expected rows (approximate): 0
+0410.010 (0) Table wp_masterslider_sliders: Total rows added: 1 in 0.09 seconds
+0410.245 (0) Table wp_masterslider_sliders: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_masterslider_sliders.table.gz - 4.5 KB)
+0410.550 (0) The time we have been running (410.3) is approaching the resumption interval (440) - increasing resumption interval to 441
+0410.995 (0) Table wp_pmxi_files: Total expected rows (approximate): 0
+0411.086 (0) Table wp_pmxi_files: Total rows added: 0 in 0.05 seconds
+0411.202 (0) Table wp_pmxi_files: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_pmxi_files.table.gz - 0.3 KB)
+0411.373 (0) The time we have been running (411.2) is approaching the resumption interval (441) - increasing resumption interval to 442
+0411.671 (0) Table wp_pmxi_history: Total expected rows (approximate): 0
+0411.792 (0) Table wp_pmxi_history: Total rows added: 0 in 0.04 seconds
+0411.843 (0) Table wp_pmxi_history: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_pmxi_history.table.gz - 0.4 KB)
+0411.956 (0) Table wp_pmxi_imports: Total expected rows (approximate): 0
+0412.003 (0) Table wp_pmxi_imports: Total rows added: 0 in 0.03 seconds
+0412.035 (0) Table wp_pmxi_imports: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_pmxi_imports.table.gz - 0.6 KB)
+0412.232 (0) The time we have been running (412.1) is approaching the resumption interval (442) - increasing resumption interval to 443
+0412.547 (0) Table wp_pmxi_posts: Total expected rows (approximate): 0
+0412.617 (0) Table wp_pmxi_posts: Total rows added: 0 in 0.04 seconds
+0412.668 (0) Table wp_pmxi_posts: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_pmxi_posts.table.gz - 0.4 KB)
+0412.771 (0) Table wp_pmxi_templates: Total expected rows (approximate): 0
+0412.835 (0) Table wp_pmxi_templates: Total rows added: 0 in 0.03 seconds
+0412.868 (0) Table wp_pmxi_templates: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_pmxi_templates.table.gz - 0.4 KB)
+0413.038 (0) Table wp_revslider_css: Total expected rows (approximate): 109
+0413.386 (0) Table wp_revslider_css: Total rows added: 109 in 0.28 seconds
+0413.476 (0) Table wp_revslider_css: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_revslider_css.table.gz - 4.9 KB)
+0413.598 (0) The time we have been running (413.5) is approaching the resumption interval (443) - increasing resumption interval to 444
+0413.686 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 0
+0413.735 (0) Table wp_revslider_layer_animations: Total rows added: 0 in 0.02 seconds
+0413.765 (0) Table wp_revslider_layer_animations: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_revslider_layer_animations.table.gz - 0.3 KB)
+0413.857 (0) Table wp_revslider_navigations: Total expected rows (approximate): 0
+0413.897 (0) Table wp_revslider_navigations: Total rows added: 0 in 0.02 seconds
+0413.932 (0) Table wp_revslider_navigations: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_revslider_navigations.table.gz - 0.3 KB)
+0414.290 (0) Table wp_revslider_sliders: Total expected rows (approximate): 0
+0414.382 (0) Table wp_revslider_sliders: Total rows added: 0 in 0.08 seconds
+0414.510 (0) Table wp_revslider_sliders: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_revslider_sliders.table.gz - 0.3 KB)
+0414.698 (0) The time we have been running (414.6) is approaching the resumption interval (444) - increasing resumption interval to 445
+0414.803 (0) Table wp_revslider_slides: Total expected rows (approximate): 0
+0414.854 (0) Table wp_revslider_slides: Total rows added: 0 in 0.01 seconds
+0414.883 (0) Table wp_revslider_slides: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_revslider_slides.table.gz - 0.3 KB)
+0415.049 (0) Table wp_revslider_static_slides: Total expected rows (approximate): 0
+0415.115 (0) Table wp_revslider_static_slides: Total rows added: 0 in 0.02 seconds
+0415.285 (0) Table wp_revslider_static_slides: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_revslider_static_slides.table.gz - 0.3 KB)
+0415.507 (0) The time we have been running (415.3) is approaching the resumption interval (445) - increasing resumption interval to 446
+0415.748 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0415.785 (0) Table wp_wc_download_log: Total rows added: 0 in 0.02 seconds
+0415.840 (0) Table wp_wc_download_log: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_wc_download_log.table.gz - 0.4 KB)
+0416.055 (0) Table wp_wc_webhooks: Total expected rows (approximate): 0
+0416.175 (0) Table wp_wc_webhooks: Total rows added: 0 in 0.06 seconds
+0416.260 (0) Table wp_wc_webhooks: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_wc_webhooks.table.gz - 0.5 KB)
+0416.475 (0) The time we have been running (416.3) is approaching the resumption interval (446) - increasing resumption interval to 447
+0416.609 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0416.649 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.02 seconds
+0416.802 (0) Table wp_woocommerce_api_keys: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0416.923 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 1
+0416.976 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.03 seconds
+0417.015 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0417.299 (0) The time we have been running (417.1) is approaching the resumption interval (447) - increasing resumption interval to 448
+0417.464 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0417.659 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.04 seconds
+0417.710 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0417.837 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0417.900 (0) Table wp_woocommerce_log: Total rows added: 0 in 0.03 seconds
+0417.935 (0) Table wp_woocommerce_log: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0418.102 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 2
+0418.224 (0) Table wp_woocommerce_order_items: Total rows added: 3 in 0.06 seconds
+0418.319 (0) Table wp_woocommerce_order_items: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_order_items.table.gz - 0.4 KB)
+0418.648 (0) The time we have been running (418.4) is approaching the resumption interval (448) - increasing resumption interval to 449
+0418.792 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0418.851 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.02 seconds
+0418.898 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0419.001 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1
+0419.039 (0) Table wp_woocommerce_sessions: Total rows added: 1 in 0.02 seconds
+0419.093 (0) Table wp_woocommerce_sessions: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_sessions.table.gz - 0.9 KB)
+0419.717 (0) The time we have been running (419.3) is approaching the resumption interval (449) - increasing resumption interval to 450
+0419.858 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0419.897 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.01 seconds
+0419.931 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0420.476 (0) The time we have been running (420.1) is approaching the resumption interval (450) - increasing resumption interval to 451
+0420.806 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0421.076 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.07 seconds
+0421.137 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0421.332 (0) The time we have been running (421.2) is approaching the resumption interval (451) - increasing resumption interval to 452
+0421.530 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0421.623 (0) Table wp_woocommerce_shipping_zones: Total rows added: 0 in 0.06 seconds
+0421.660 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0421.768 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0421.978 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.03 seconds
+0422.035 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0422.199 (0) The time we have been running (422.1) is approaching the resumption interval (452) - increasing resumption interval to 453
+0422.409 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0422.557 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.07 seconds
+0422.607 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0422.896 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_options.table.gz (1/41): adding to final database dump
+0422.978 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_users.table.gz (2/41): adding to final database dump
+0423.025 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_usermeta.table.gz (3/41): adding to final database dump
+0423.079 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_commentmeta.table.gz (4/41): adding to final database dump
+0423.133 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_comments.table.gz (5/41): adding to final database dump
+0423.167 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_links.table.gz (6/41): adding to final database dump
+0423.208 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_postmeta.table.gz (7/41): adding to final database dump
+0423.306 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_posts.table.gz (8/41): adding to final database dump
+0423.491 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_term_relationships.table.gz (9/41): adding to final database dump
+0423.591 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_term_taxonomy.table.gz (10/41): adding to final database dump
+0423.642 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_termmeta.table.gz (11/41): adding to final database dump
+0423.674 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_terms.table.gz (12/41): adding to final database dump
+0423.708 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_order_itemmeta.table.gz (13/41): adding to final database dump
+0423.749 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_payment_tokenmeta.table.gz (14/41): adding to final database dump
+0423.957 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_masterslider_options.table.gz (15/41): adding to final database dump
+0423.992 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_masterslider_sliders.table.gz (16/41): adding to final database dump
+0424.025 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_pmxi_files.table.gz (17/41): adding to final database dump
+0424.057 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_pmxi_history.table.gz (18/41): adding to final database dump
+0424.092 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_pmxi_imports.table.gz (19/41): adding to final database dump
+0424.132 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_pmxi_posts.table.gz (20/41): adding to final database dump
+0424.166 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_pmxi_templates.table.gz (21/41): adding to final database dump
+0424.240 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_revslider_css.table.gz (22/41): adding to final database dump
+0424.271 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_revslider_layer_animations.table.gz (23/41): adding to final database dump
+0424.307 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_revslider_navigations.table.gz (24/41): adding to final database dump
+0424.341 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_revslider_sliders.table.gz (25/41): adding to final database dump
+0424.409 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_revslider_slides.table.gz (26/41): adding to final database dump
+0424.466 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_revslider_static_slides.table.gz (27/41): adding to final database dump
+0424.532 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_wc_download_log.table.gz (28/41): adding to final database dump
+0424.744 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_wc_webhooks.table.gz (29/41): adding to final database dump
+0424.799 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_api_keys.table.gz (30/41): adding to final database dump
+0424.857 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_attribute_taxonomies.table.gz (31/41): adding to final database dump
+0424.891 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (32/41): adding to final database dump
+0424.946 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_log.table.gz (33/41): adding to final database dump
+0424.982 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_order_items.table.gz (34/41): adding to final database dump
+0425.007 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_payment_tokens.table.gz (35/41): adding to final database dump
+0425.032 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_sessions.table.gz (36/41): adding to final database dump
+0425.073 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_shipping_zone_locations.table.gz (37/41): adding to final database dump
+0425.099 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_shipping_zone_methods.table.gz (38/41): adding to final database dump
+0425.124 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_shipping_zones.table.gz (39/41): adding to final database dump
+0425.157 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_tax_rate_locations.table.gz (40/41): adding to final database dump
+0425.182 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db-table-wp_woocommerce_tax_rates.table.gz (41/41): adding to final database dump
+0425.248 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db.gz: finished writing out complete database file (368 KB)
+0425.457 (0) Total database tables backed up: 41 (backup_2018-03-25-2116_Conextuval_547424158f75-db.gz, size: 384655, sha256)
+0425.927 (0) backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0425.949 (0) backup_2018-03-25-2116_Conextuval_547424158f75-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0425.983 (0) backup_2018-03-25-2116_Conextuval_547424158f75-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0426.041 (0) backup_2018-03-25-2116_Conextuval_547424158f75-others.zip: others: This file has not yet been successfully uploaded: will queue
+0426.107 (0) backup_2018-03-25-2116_Conextuval_547424158f75-db.gz: db: This file has not yet been successfully uploaded: will queue
+0426.132 (0) Saving backup history. Total backup size: 130.3 MB
+0426.265 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0426.706 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0426.740 (0) No remote despatch: user chose no remote backup service
+0426.810 (0) Recording as successfully uploaded: backup_2018-03-25-2116_Conextuval_547424158f75-plugins.zip (be732e3aaf2c0dfca313284ccc069a40)
+0426.981 (0) Recording as successfully uploaded: backup_2018-03-25-2116_Conextuval_547424158f75-themes.zip (402954336eca149927bf1b178ae4c8a0)
+0427.098 (0) Recording as successfully uploaded: backup_2018-03-25-2116_Conextuval_547424158f75-uploads.zip (7038acfee6b6762876309868366e9441)
+0427.340 (0) Recording as successfully uploaded: backup_2018-03-25-2116_Conextuval_547424158f75-others.zip (209bfc3805c3ec7fbd959d3c136c3b42)
+0427.448 (0) Recording as successfully uploaded: backup_2018-03-25-2116_Conextuval_547424158f75-db.gz (a5abc83b3b5b65d3f8c51c3cab96b180)
+0427.599 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0427.631 (0) Resume backup (547424158f75, 0): finish run
+0427.723 (0) Decremented the semaphore (fd) by 1
+0427.798 (0) Semaphore (fd) unlocked
+0427.840 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0427.983 (0) No email will/can be sent - the user has not configured an email address.
+0428.186 (0) The backup apparently succeeded and is now complete

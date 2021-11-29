@@ -1,0 +1,862 @@
+[INFO]-[2018/04/03 02:44:56] DB Copy: Creating table wpstg1_commentmeta like wp_commentmeta
+[INFO]-[2018/04/03 02:44:57] DB Copy: wp_commentmeta as wpstg1_commentmeta between 0 to 5000 records
+[INFO]-[2018/04/03 02:44:57] DB Copy: Creating table wpstg1_comments like wp_comments
+[INFO]-[2018/04/03 02:44:57] DB Copy: wp_comments as wpstg1_comments between 0 to 5000 records
+[INFO]-[2018/04/03 02:44:57] DB Copy: Creating table wpstg1_links like wp_links
+[INFO]-[2018/04/03 02:44:57] DB Copy: Creating table wpstg1_masterslider_options like wp_masterslider_options
+[INFO]-[2018/04/03 02:44:57] DB Copy: wp_masterslider_options as wpstg1_masterslider_options between 0 to 5000 records
+[INFO]-[2018/04/03 02:44:58] DB Copy: Creating table wpstg1_masterslider_sliders like wp_masterslider_sliders
+[INFO]-[2018/04/03 02:44:58] DB Copy: wp_masterslider_sliders as wpstg1_masterslider_sliders between 0 to 5000 records
+[INFO]-[2018/04/03 02:44:58] DB Copy: Creating table wpstg1_options like wp_options
+[INFO]-[2018/04/03 02:44:58] DB Copy: wp_options as wpstg1_options between 0 to 5000 records
+[INFO]-[2018/04/03 02:44:58] DB Copy: Creating table wpstg1_pmxi_files like wp_pmxi_files
+[INFO]-[2018/04/03 02:44:58] DB Copy: Creating table wpstg1_pmxi_history like wp_pmxi_history
+[INFO]-[2018/04/03 02:44:58] DB Copy: Creating table wpstg1_pmxi_imports like wp_pmxi_imports
+[INFO]-[2018/04/03 02:44:59] DB Copy: Creating table wpstg1_pmxi_posts like wp_pmxi_posts
+[INFO]-[2018/04/03 02:44:59] DB Copy: Creating table wpstg1_pmxi_templates like wp_pmxi_templates
+[INFO]-[2018/04/03 02:44:59] DB Copy: Creating table wpstg1_postmeta like wp_postmeta
+[INFO]-[2018/04/03 02:44:59] DB Copy: wp_postmeta as wpstg1_postmeta between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:00] DB Copy: wp_postmeta as wpstg1_postmeta between 5000 to 10000 records
+[INFO]-[2018/04/03 02:45:00] DB Copy: wp_postmeta as wpstg1_postmeta between 10000 to 15000 records
+[INFO]-[2018/04/03 02:45:00] DB Copy: Creating table wpstg1_posts like wp_posts
+[INFO]-[2018/04/03 02:45:01] DB Copy: wp_posts as wpstg1_posts between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:02] DB Copy: Creating table wpstg1_revslider_css like wp_revslider_css
+[INFO]-[2018/04/03 02:45:03] DB Copy: wp_revslider_css as wpstg1_revslider_css between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:03] DB Copy: Creating table wpstg1_revslider_layer_animations like wp_revslider_layer_animations
+[INFO]-[2018/04/03 02:45:03] DB Copy: Creating table wpstg1_revslider_navigations like wp_revslider_navigations
+[INFO]-[2018/04/03 02:45:04] DB Copy: Creating table wpstg1_revslider_sliders like wp_revslider_sliders
+[INFO]-[2018/04/03 02:45:04] DB Copy: Creating table wpstg1_revslider_slides like wp_revslider_slides
+[INFO]-[2018/04/03 02:45:04] DB Copy: Creating table wpstg1_revslider_static_slides like wp_revslider_static_slides
+[INFO]-[2018/04/03 02:45:05] DB Copy: Creating table wpstg1_term_relationships like wp_term_relationships
+[INFO]-[2018/04/03 02:45:05] DB Copy: wp_term_relationships as wpstg1_term_relationships between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:05] DB Copy: Creating table wpstg1_term_taxonomy like wp_term_taxonomy
+[INFO]-[2018/04/03 02:45:05] DB Copy: wp_term_taxonomy as wpstg1_term_taxonomy between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:05] DB Copy: Creating table wpstg1_termmeta like wp_termmeta
+[INFO]-[2018/04/03 02:45:06] DB Copy: wp_termmeta as wpstg1_termmeta between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:06] DB Copy: Creating table wpstg1_terms like wp_terms
+[INFO]-[2018/04/03 02:45:06] DB Copy: wp_terms as wpstg1_terms between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:06] DB Copy: Creating table wpstg1_usermeta like wp_usermeta
+[INFO]-[2018/04/03 02:45:07] DB Copy: wp_usermeta as wpstg1_usermeta between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:07] DB Copy: Creating table wpstg1_users like wp_users
+[INFO]-[2018/04/03 02:45:07] DB Copy: wp_users as wpstg1_users between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:07] DB Copy: Creating table wpstg1_wc_download_log like wp_wc_download_log
+[INFO]-[2018/04/03 02:45:07] DB Copy: Creating table wpstg1_wc_webhooks like wp_wc_webhooks
+[INFO]-[2018/04/03 02:45:08] DB Copy: Creating table wpstg1_woocommerce_api_keys like wp_woocommerce_api_keys
+[INFO]-[2018/04/03 02:45:08] DB Copy: Creating table wpstg1_woocommerce_attribute_taxonomies like wp_woocommerce_attribute_taxonomies
+[INFO]-[2018/04/03 02:44:56] DB Copy: Creating table wpstg1_commentmeta like wp_commentmeta
+[INFO]-[2018/04/03 02:44:57] DB Copy: wp_commentmeta as wpstg1_commentmeta between 0 to 5000 records
+[INFO]-[2018/04/03 02:44:57] DB Copy: Creating table wpstg1_comments like wp_comments
+[INFO]-[2018/04/03 02:44:57] DB Copy: wp_comments as wpstg1_comments between 0 to 5000 records
+[INFO]-[2018/04/03 02:44:57] DB Copy: Creating table wpstg1_links like wp_links
+[INFO]-[2018/04/03 02:44:57] DB Copy: Creating table wpstg1_masterslider_options like wp_masterslider_options
+[INFO]-[2018/04/03 02:44:57] DB Copy: wp_masterslider_options as wpstg1_masterslider_options between 0 to 5000 records
+[INFO]-[2018/04/03 02:44:58] DB Copy: Creating table wpstg1_masterslider_sliders like wp_masterslider_sliders
+[INFO]-[2018/04/03 02:44:58] DB Copy: wp_masterslider_sliders as wpstg1_masterslider_sliders between 0 to 5000 records
+[INFO]-[2018/04/03 02:44:58] DB Copy: Creating table wpstg1_options like wp_options
+[INFO]-[2018/04/03 02:44:58] DB Copy: wp_options as wpstg1_options between 0 to 5000 records
+[INFO]-[2018/04/03 02:44:58] DB Copy: Creating table wpstg1_pmxi_files like wp_pmxi_files
+[INFO]-[2018/04/03 02:44:58] DB Copy: Creating table wpstg1_pmxi_history like wp_pmxi_history
+[INFO]-[2018/04/03 02:44:58] DB Copy: Creating table wpstg1_pmxi_imports like wp_pmxi_imports
+[INFO]-[2018/04/03 02:44:59] DB Copy: Creating table wpstg1_pmxi_posts like wp_pmxi_posts
+[INFO]-[2018/04/03 02:44:59] DB Copy: Creating table wpstg1_pmxi_templates like wp_pmxi_templates
+[INFO]-[2018/04/03 02:44:59] DB Copy: Creating table wpstg1_postmeta like wp_postmeta
+[INFO]-[2018/04/03 02:44:59] DB Copy: wp_postmeta as wpstg1_postmeta between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:00] DB Copy: wp_postmeta as wpstg1_postmeta between 5000 to 10000 records
+[INFO]-[2018/04/03 02:45:00] DB Copy: wp_postmeta as wpstg1_postmeta between 10000 to 15000 records
+[INFO]-[2018/04/03 02:45:00] DB Copy: Creating table wpstg1_posts like wp_posts
+[INFO]-[2018/04/03 02:45:01] DB Copy: wp_posts as wpstg1_posts between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:02] DB Copy: Creating table wpstg1_revslider_css like wp_revslider_css
+[INFO]-[2018/04/03 02:45:03] DB Copy: wp_revslider_css as wpstg1_revslider_css between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:03] DB Copy: Creating table wpstg1_revslider_layer_animations like wp_revslider_layer_animations
+[INFO]-[2018/04/03 02:45:03] DB Copy: Creating table wpstg1_revslider_navigations like wp_revslider_navigations
+[INFO]-[2018/04/03 02:45:04] DB Copy: Creating table wpstg1_revslider_sliders like wp_revslider_sliders
+[INFO]-[2018/04/03 02:45:04] DB Copy: Creating table wpstg1_revslider_slides like wp_revslider_slides
+[INFO]-[2018/04/03 02:45:04] DB Copy: Creating table wpstg1_revslider_static_slides like wp_revslider_static_slides
+[INFO]-[2018/04/03 02:45:05] DB Copy: Creating table wpstg1_term_relationships like wp_term_relationships
+[INFO]-[2018/04/03 02:45:05] DB Copy: wp_term_relationships as wpstg1_term_relationships between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:05] DB Copy: Creating table wpstg1_term_taxonomy like wp_term_taxonomy
+[INFO]-[2018/04/03 02:45:05] DB Copy: wp_term_taxonomy as wpstg1_term_taxonomy between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:05] DB Copy: Creating table wpstg1_termmeta like wp_termmeta
+[INFO]-[2018/04/03 02:45:06] DB Copy: wp_termmeta as wpstg1_termmeta between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:06] DB Copy: Creating table wpstg1_terms like wp_terms
+[INFO]-[2018/04/03 02:45:06] DB Copy: wp_terms as wpstg1_terms between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:06] DB Copy: Creating table wpstg1_usermeta like wp_usermeta
+[INFO]-[2018/04/03 02:45:07] DB Copy: wp_usermeta as wpstg1_usermeta between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:07] DB Copy: Creating table wpstg1_users like wp_users
+[INFO]-[2018/04/03 02:45:07] DB Copy: wp_users as wpstg1_users between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:07] DB Copy: Creating table wpstg1_wc_download_log like wp_wc_download_log
+[INFO]-[2018/04/03 02:45:07] DB Copy: Creating table wpstg1_wc_webhooks like wp_wc_webhooks
+[INFO]-[2018/04/03 02:45:08] DB Copy: Creating table wpstg1_woocommerce_api_keys like wp_woocommerce_api_keys
+[INFO]-[2018/04/03 02:45:08] DB Copy: Creating table wpstg1_woocommerce_attribute_taxonomies like wp_woocommerce_attribute_taxonomies
+[INFO]-[2018/04/03 02:45:13] DB Copy: Creating table wpstg1_woocommerce_downloadable_product_permissions like wp_woocommerce_downloadable_product_permissions
+[INFO]-[2018/04/03 02:45:13] DB Copy: Creating table wpstg1_woocommerce_log like wp_woocommerce_log
+[INFO]-[2018/04/03 02:45:13] DB Copy: Creating table wpstg1_woocommerce_order_itemmeta like wp_woocommerce_order_itemmeta
+[INFO]-[2018/04/03 02:45:13] DB Copy: wp_woocommerce_order_itemmeta as wpstg1_woocommerce_order_itemmeta between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:14] DB Copy: Creating table wpstg1_woocommerce_order_items like wp_woocommerce_order_items
+[INFO]-[2018/04/03 02:45:14] DB Copy: wp_woocommerce_order_items as wpstg1_woocommerce_order_items between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:14] DB Copy: Creating table wpstg1_woocommerce_payment_tokenmeta like wp_woocommerce_payment_tokenmeta
+[INFO]-[2018/04/03 02:45:14] DB Copy: Creating table wpstg1_woocommerce_payment_tokens like wp_woocommerce_payment_tokens
+[INFO]-[2018/04/03 02:45:14] DB Copy: Creating table wpstg1_woocommerce_sessions like wp_woocommerce_sessions
+[INFO]-[2018/04/03 02:45:14] DB Copy: wp_woocommerce_sessions as wpstg1_woocommerce_sessions between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:15] DB Copy: Creating table wpstg1_woocommerce_shipping_zone_locations like wp_woocommerce_shipping_zone_locations
+[INFO]-[2018/04/03 02:45:15] DB Copy: Creating table wpstg1_woocommerce_shipping_zone_methods like wp_woocommerce_shipping_zone_methods
+[INFO]-[2018/04/03 02:45:15] DB Copy: Creating table wpstg1_woocommerce_shipping_zones like wp_woocommerce_shipping_zones
+[INFO]-[2018/04/03 02:45:15] DB Copy: Creating table wpstg1_woocommerce_tax_rate_locations like wp_woocommerce_tax_rate_locations
+[INFO]-[2018/04/03 02:45:15] DB Copy: Creating table wpstg1_woocommerce_tax_rates like wp_woocommerce_tax_rates
+[INFO]-[2018/04/03 02:45:13] DB Copy: Creating table wpstg1_woocommerce_downloadable_product_permissions like wp_woocommerce_downloadable_product_permissions
+[INFO]-[2018/04/03 02:45:13] DB Copy: Creating table wpstg1_woocommerce_log like wp_woocommerce_log
+[INFO]-[2018/04/03 02:45:13] DB Copy: Creating table wpstg1_woocommerce_order_itemmeta like wp_woocommerce_order_itemmeta
+[INFO]-[2018/04/03 02:45:13] DB Copy: wp_woocommerce_order_itemmeta as wpstg1_woocommerce_order_itemmeta between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:14] DB Copy: Creating table wpstg1_woocommerce_order_items like wp_woocommerce_order_items
+[INFO]-[2018/04/03 02:45:14] DB Copy: wp_woocommerce_order_items as wpstg1_woocommerce_order_items between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:14] DB Copy: Creating table wpstg1_woocommerce_payment_tokenmeta like wp_woocommerce_payment_tokenmeta
+[INFO]-[2018/04/03 02:45:14] DB Copy: Creating table wpstg1_woocommerce_payment_tokens like wp_woocommerce_payment_tokens
+[INFO]-[2018/04/03 02:45:14] DB Copy: Creating table wpstg1_woocommerce_sessions like wp_woocommerce_sessions
+[INFO]-[2018/04/03 02:45:14] DB Copy: wp_woocommerce_sessions as wpstg1_woocommerce_sessions between 0 to 5000 records
+[INFO]-[2018/04/03 02:45:15] DB Copy: Creating table wpstg1_woocommerce_shipping_zone_locations like wp_woocommerce_shipping_zone_locations
+[INFO]-[2018/04/03 02:45:15] DB Copy: Creating table wpstg1_woocommerce_shipping_zone_methods like wp_woocommerce_shipping_zone_methods
+[INFO]-[2018/04/03 02:45:15] DB Copy: Creating table wpstg1_woocommerce_shipping_zones like wp_woocommerce_shipping_zones
+[INFO]-[2018/04/03 02:45:15] DB Copy: Creating table wpstg1_woocommerce_tax_rate_locations like wp_woocommerce_tax_rate_locations
+[INFO]-[2018/04/03 02:45:15] DB Copy: Creating table wpstg1_woocommerce_tax_rates like wp_woocommerce_tax_rates
+[INFO]-[2018/04/03 02:45:19] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:19] DB Processing:  Table wpstg1_commentmeta
+[INFO]-[2018/04/03 02:45:19] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:19] DB Processing:  Table wpstg1_comments
+[INFO]-[2018/04/03 02:45:19] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:19] DB Processing:  Table wpstg1_masterslider_options
+[INFO]-[2018/04/03 02:45:19] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:19] DB Processing:  Table wpstg1_masterslider_sliders
+[INFO]-[2018/04/03 02:45:19] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:19] DB Processing:  Table wpstg1_options
+[INFO]-[2018/04/03 02:45:20] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:20] DB Processing:  Table wpstg1_postmeta
+[INFO]-[2018/04/03 02:45:25] DB Processing:  5000 to 10000 records
+[INFO]-[2018/04/03 02:45:25] DB Processing:  Table wpstg1_postmeta
+[INFO]-[2018/04/03 02:45:25] DB Processing:  10000 to 15000 records
+[INFO]-[2018/04/03 02:45:25] DB Processing:  Table wpstg1_postmeta
+[INFO]-[2018/04/03 02:45:25] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:25] DB Processing:  Table wpstg1_posts
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_revslider_css
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_term_relationships
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_term_taxonomy
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_termmeta
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_terms
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_usermeta
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_users
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_woocommerce_order_itemmeta
+[INFO]-[2018/04/03 02:45:31] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:31] DB Processing:  Table wpstg1_woocommerce_order_items
+[INFO]-[2018/04/03 02:45:31] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:31] DB Processing:  Table wpstg1_woocommerce_sessions
+[INFO]-[2018/04/03 02:45:19] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:19] DB Processing:  Table wpstg1_commentmeta
+[INFO]-[2018/04/03 02:45:19] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:19] DB Processing:  Table wpstg1_comments
+[INFO]-[2018/04/03 02:45:19] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:19] DB Processing:  Table wpstg1_masterslider_options
+[INFO]-[2018/04/03 02:45:19] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:19] DB Processing:  Table wpstg1_masterslider_sliders
+[INFO]-[2018/04/03 02:45:19] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:19] DB Processing:  Table wpstg1_options
+[INFO]-[2018/04/03 02:45:20] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:20] DB Processing:  Table wpstg1_postmeta
+[INFO]-[2018/04/03 02:45:25] DB Processing:  5000 to 10000 records
+[INFO]-[2018/04/03 02:45:25] DB Processing:  Table wpstg1_postmeta
+[INFO]-[2018/04/03 02:45:25] DB Processing:  10000 to 15000 records
+[INFO]-[2018/04/03 02:45:25] DB Processing:  Table wpstg1_postmeta
+[INFO]-[2018/04/03 02:45:25] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:25] DB Processing:  Table wpstg1_posts
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_revslider_css
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_term_relationships
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_term_taxonomy
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_termmeta
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_terms
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_usermeta
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_users
+[INFO]-[2018/04/03 02:45:30] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:30] DB Processing:  Table wpstg1_woocommerce_order_itemmeta
+[INFO]-[2018/04/03 02:45:31] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:31] DB Processing:  Table wpstg1_woocommerce_order_items
+[INFO]-[2018/04/03 02:45:31] DB Processing:  0 to 5000 records
+[INFO]-[2018/04/03 02:45:31] DB Processing:  Table wpstg1_woocommerce_sessions
+[]-[] 
+[]-[] 
+[INFO]-[2018/04/03 02:45:40] Scanning C:\xampp\htdocs\wordpress/ for its sub-directories and files
+[INFO]-[2018/04/03 02:45:40] Scanning C:\xampp\htdocs\wordpress/ for its sub-directories and files
+[INFO]-[2018/04/03 02:45:45] Scanning wp-content\ai1wm-backups for its sub-directories and files
+[INFO]-[2018/04/03 02:45:45] Scanning wp-content\ai1wm-backups for its sub-directories and files
+[INFO]-[2018/04/03 02:45:57] Scanning C:\xampp\htdocs\wordpress/wp-includes\ for its sub-directories and files
+[INFO]-[2018/04/03 02:45:57] Scanning C:\xampp\htdocs\wordpress/wp-includes\ for its sub-directories and files
+[INFO]-[2018/04/03 02:46:02] Scanning C:\xampp\htdocs\wordpress/wp-admin\ for its sub-directories and files
+[INFO]-[2018/04/03 02:46:02] Scanning C:\xampp\htdocs\wordpress/wp-admin\ for its sub-directories and files
+[INFO]-[2018/04/03 02:46:10] Copying files...
+[INFO]-[2018/04/03 02:46:10] Skipping file by rule: C:\xampp\htdocs\wordpress/.htaccess
+[INFO]-[2018/04/03 02:46:12] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\ai1wm-backups\.htaccess
+[INFO]-[2018/04/03 02:46:12] Skipping big file: C:\xampp\htdocs\wordpress/wp-content\ai1wm-backups\localhost-wordpress-20180403-022130-136.wpress
+[INFO]-[2018/04/03 02:46:12] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\akismet\.htaccess
+[INFO]-[2018/04/03 02:46:13] Total 50 files processed
+[INFO]-[2018/04/03 02:46:16] Total 100 files processed
+[INFO]-[2018/04/03 02:46:18] Total 150 files processed
+[INFO]-[2018/04/03 02:46:20] Total 200 files processed
+[INFO]-[2018/04/03 02:46:20] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\all-in-one-wp-migration\storage\error.log
+[INFO]-[2018/04/03 02:46:20] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\all-in-one-wp-migration\storage\seaenmg7wzr3\export.log
+[INFO]-[2018/04/03 02:46:20] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\be-portfolio-post\.DS_Store
+[INFO]-[2018/04/03 02:46:21] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\be-portfolio-post\custom-post-types\.DS_Store
+[INFO]-[2018/04/03 02:46:10] Copying files...
+[INFO]-[2018/04/03 02:46:10] Skipping file by rule: C:\xampp\htdocs\wordpress/.htaccess
+[INFO]-[2018/04/03 02:46:12] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\ai1wm-backups\.htaccess
+[INFO]-[2018/04/03 02:46:12] Skipping big file: C:\xampp\htdocs\wordpress/wp-content\ai1wm-backups\localhost-wordpress-20180403-022130-136.wpress
+[INFO]-[2018/04/03 02:46:12] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\akismet\.htaccess
+[INFO]-[2018/04/03 02:46:13] Total 50 files processed
+[INFO]-[2018/04/03 02:46:16] Total 100 files processed
+[INFO]-[2018/04/03 02:46:18] Total 150 files processed
+[INFO]-[2018/04/03 02:46:20] Total 200 files processed
+[INFO]-[2018/04/03 02:46:20] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\all-in-one-wp-migration\storage\error.log
+[INFO]-[2018/04/03 02:46:20] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\all-in-one-wp-migration\storage\seaenmg7wzr3\export.log
+[INFO]-[2018/04/03 02:46:20] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\be-portfolio-post\.DS_Store
+[INFO]-[2018/04/03 02:46:21] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\be-portfolio-post\custom-post-types\.DS_Store
+[]-[] 
+[INFO]-[2018/04/03 02:46:29] Total 250 files processed
+[INFO]-[2018/04/03 02:46:32] Total 300 files processed
+[INFO]-[2018/04/03 02:46:35] Total 350 files processed
+[INFO]-[2018/04/03 02:46:38] Total 400 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:46:29] Total 250 files processed
+[INFO]-[2018/04/03 02:46:32] Total 300 files processed
+[INFO]-[2018/04/03 02:46:35] Total 350 files processed
+[INFO]-[2018/04/03 02:46:38] Total 400 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:46:46] Total 450 files processed
+[INFO]-[2018/04/03 02:46:47] Total 500 files processed
+[INFO]-[2018/04/03 02:46:48] Total 550 files processed
+[INFO]-[2018/04/03 02:46:50] Total 600 files processed
+[INFO]-[2018/04/03 02:46:53] Total 650 files processed
+[INFO]-[2018/04/03 02:46:56] Total 700 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:46:46] Total 450 files processed
+[INFO]-[2018/04/03 02:46:47] Total 500 files processed
+[INFO]-[2018/04/03 02:46:48] Total 550 files processed
+[INFO]-[2018/04/03 02:46:50] Total 600 files processed
+[INFO]-[2018/04/03 02:46:53] Total 650 files processed
+[INFO]-[2018/04/03 02:46:56] Total 700 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:47:01] Total 750 files processed
+[INFO]-[2018/04/03 02:47:03] Total 800 files processed
+[INFO]-[2018/04/03 02:47:06] Total 850 files processed
+[INFO]-[2018/04/03 02:47:08] Total 900 files processed
+[INFO]-[2018/04/03 02:47:11] Total 950 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:47:01] Total 750 files processed
+[INFO]-[2018/04/03 02:47:03] Total 800 files processed
+[INFO]-[2018/04/03 02:47:06] Total 850 files processed
+[INFO]-[2018/04/03 02:47:08] Total 900 files processed
+[INFO]-[2018/04/03 02:47:11] Total 950 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:47:18] Total 1000 files processed
+[INFO]-[2018/04/03 02:47:22] Total 1050 files processed
+[INFO]-[2018/04/03 02:47:25] Total 1100 files processed
+[INFO]-[2018/04/03 02:47:26] Total 1150 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:47:18] Total 1000 files processed
+[INFO]-[2018/04/03 02:47:22] Total 1050 files processed
+[INFO]-[2018/04/03 02:47:25] Total 1100 files processed
+[INFO]-[2018/04/03 02:47:26] Total 1150 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:47:33] Total 1200 files processed
+[INFO]-[2018/04/03 02:47:36] Total 1250 files processed
+[INFO]-[2018/04/03 02:47:39] Total 1300 files processed
+[INFO]-[2018/04/03 02:47:44] Total 1350 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:47:33] Total 1200 files processed
+[INFO]-[2018/04/03 02:47:36] Total 1250 files processed
+[INFO]-[2018/04/03 02:47:39] Total 1300 files processed
+[INFO]-[2018/04/03 02:47:44] Total 1350 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:47:50] Total 1400 files processed
+[INFO]-[2018/04/03 02:47:54] Total 1450 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:47:50] Total 1400 files processed
+[INFO]-[2018/04/03 02:47:54] Total 1450 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:48:06] Total 1500 files processed
+[INFO]-[2018/04/03 02:48:08] Total 1550 files processed
+[INFO]-[2018/04/03 02:48:11] Total 1600 files processed
+[INFO]-[2018/04/03 02:48:13] Total 1650 files processed
+[INFO]-[2018/04/03 02:48:15] Total 1700 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:48:06] Total 1500 files processed
+[INFO]-[2018/04/03 02:48:08] Total 1550 files processed
+[INFO]-[2018/04/03 02:48:11] Total 1600 files processed
+[INFO]-[2018/04/03 02:48:13] Total 1650 files processed
+[INFO]-[2018/04/03 02:48:15] Total 1700 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:48:25] Total 1750 files processed
+[INFO]-[2018/04/03 02:48:27] Total 1800 files processed
+[INFO]-[2018/04/03 02:48:29] Total 1850 files processed
+[INFO]-[2018/04/03 02:48:32] Total 1900 files processed
+[INFO]-[2018/04/03 02:48:33] Total 1950 files processed
+[INFO]-[2018/04/03 02:48:35] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\oshine-core\.DS_Store
+[INFO]-[2018/04/03 02:48:35] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\oshine-core\inc\.DS_Store
+[INFO]-[2018/04/03 02:48:35] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\oshine-core\inc\importer\.DS_Store
+[]-[] 
+[INFO]-[2018/04/03 02:48:25] Total 1750 files processed
+[INFO]-[2018/04/03 02:48:27] Total 1800 files processed
+[INFO]-[2018/04/03 02:48:29] Total 1850 files processed
+[INFO]-[2018/04/03 02:48:32] Total 1900 files processed
+[INFO]-[2018/04/03 02:48:33] Total 1950 files processed
+[INFO]-[2018/04/03 02:48:35] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\oshine-core\.DS_Store
+[INFO]-[2018/04/03 02:48:35] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\oshine-core\inc\.DS_Store
+[INFO]-[2018/04/03 02:48:35] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\oshine-core\inc\importer\.DS_Store
+[]-[] 
+[INFO]-[2018/04/03 02:48:43] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\oshine-core\inc\importer\demo-files\.DS_Store
+[INFO]-[2018/04/03 02:48:43] Total 2000 files processed
+[INFO]-[2018/04/03 02:48:45] Total 2050 files processed
+[INFO]-[2018/04/03 02:48:47] Trying to copy big file: C:\xampp\htdocs\wordpress/wp-content\plugins\oshine-core\inc\importer\demo-files\v25\content.xml -> C:\xampp\htdocs\wordpress/conextuval2\wp-content\plugins\oshine-core\inc\importer\demo-files\v25\content.xml
+[INFO]-[2018/04/03 02:48:48] Total 2100 files processed
+[INFO]-[2018/04/03 02:48:50] Total 2150 files processed
+[INFO]-[2018/04/03 02:48:51] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\oshine-core\inc\importer\demo-files\v38\.DS_Store
+[INFO]-[2018/04/03 02:48:51] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\oshine-core\inc\importer\demo-files\v39\.DS_Store
+[INFO]-[2018/04/03 02:48:53] Total 2200 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:48:43] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\oshine-core\inc\importer\demo-files\.DS_Store
+[INFO]-[2018/04/03 02:48:43] Total 2000 files processed
+[INFO]-[2018/04/03 02:48:45] Total 2050 files processed
+[INFO]-[2018/04/03 02:48:47] Trying to copy big file: C:\xampp\htdocs\wordpress/wp-content\plugins\oshine-core\inc\importer\demo-files\v25\content.xml -> C:\xampp\htdocs\wordpress/conextuval2\wp-content\plugins\oshine-core\inc\importer\demo-files\v25\content.xml
+[INFO]-[2018/04/03 02:48:48] Total 2100 files processed
+[INFO]-[2018/04/03 02:48:50] Total 2150 files processed
+[INFO]-[2018/04/03 02:48:51] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\oshine-core\inc\importer\demo-files\v38\.DS_Store
+[INFO]-[2018/04/03 02:48:51] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\plugins\oshine-core\inc\importer\demo-files\v39\.DS_Store
+[INFO]-[2018/04/03 02:48:53] Total 2200 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:49:00] Total 2250 files processed
+[INFO]-[2018/04/03 02:49:02] Total 2300 files processed
+[INFO]-[2018/04/03 02:49:04] Total 2350 files processed
+[INFO]-[2018/04/03 02:49:06] Total 2400 files processed
+[INFO]-[2018/04/03 02:49:09] Total 2450 files processed
+[INFO]-[2018/04/03 02:49:10] Total 2500 files processed
+[INFO]-[2018/04/03 02:49:11] Total 2550 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:49:00] Total 2250 files processed
+[INFO]-[2018/04/03 02:49:02] Total 2300 files processed
+[INFO]-[2018/04/03 02:49:04] Total 2350 files processed
+[INFO]-[2018/04/03 02:49:06] Total 2400 files processed
+[INFO]-[2018/04/03 02:49:09] Total 2450 files processed
+[INFO]-[2018/04/03 02:49:10] Total 2500 files processed
+[INFO]-[2018/04/03 02:49:11] Total 2550 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:49:16] Total 2600 files processed
+[INFO]-[2018/04/03 02:49:16] Total 2650 files processed
+[INFO]-[2018/04/03 02:49:17] Total 2700 files processed
+[INFO]-[2018/04/03 02:49:18] Total 2750 files processed
+[INFO]-[2018/04/03 02:49:18] Total 2800 files processed
+[INFO]-[2018/04/03 02:49:19] Total 2850 files processed
+[INFO]-[2018/04/03 02:49:21] Total 2900 files processed
+[INFO]-[2018/04/03 02:49:22] Total 2950 files processed
+[INFO]-[2018/04/03 02:49:23] Total 3000 files processed
+[INFO]-[2018/04/03 02:49:25] Total 3050 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:49:16] Total 2600 files processed
+[INFO]-[2018/04/03 02:49:16] Total 2650 files processed
+[INFO]-[2018/04/03 02:49:17] Total 2700 files processed
+[INFO]-[2018/04/03 02:49:18] Total 2750 files processed
+[INFO]-[2018/04/03 02:49:18] Total 2800 files processed
+[INFO]-[2018/04/03 02:49:19] Total 2850 files processed
+[INFO]-[2018/04/03 02:49:21] Total 2900 files processed
+[INFO]-[2018/04/03 02:49:22] Total 2950 files processed
+[INFO]-[2018/04/03 02:49:23] Total 3000 files processed
+[INFO]-[2018/04/03 02:49:25] Total 3050 files processed
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/04/03 02:50:13] Total 3100 files processed
+[INFO]-[2018/04/03 02:50:16] Total 3150 files processed
+[INFO]-[2018/04/03 02:50:17] Total 3200 files processed
+[INFO]-[2018/04/03 02:50:18] Total 3250 files processed
+[INFO]-[2018/04/03 02:50:19] Total 3300 files processed
+[INFO]-[2018/04/03 02:50:20] Total 3350 files processed
+[INFO]-[2018/04/03 02:50:21] Total 3400 files processed
+[INFO]-[2018/04/03 02:50:22] Total 3450 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:50:13] Total 3100 files processed
+[INFO]-[2018/04/03 02:50:16] Total 3150 files processed
+[INFO]-[2018/04/03 02:50:17] Total 3200 files processed
+[INFO]-[2018/04/03 02:50:18] Total 3250 files processed
+[INFO]-[2018/04/03 02:50:19] Total 3300 files processed
+[INFO]-[2018/04/03 02:50:20] Total 3350 files processed
+[INFO]-[2018/04/03 02:50:21] Total 3400 files processed
+[INFO]-[2018/04/03 02:50:22] Total 3450 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:50:28] Total 3500 files processed
+[INFO]-[2018/04/03 02:50:30] Total 3550 files processed
+[INFO]-[2018/04/03 02:50:32] Total 3600 files processed
+[INFO]-[2018/04/03 02:50:34] Total 3650 files processed
+[INFO]-[2018/04/03 02:50:35] Total 3700 files processed
+[INFO]-[2018/04/03 02:50:37] Total 3750 files processed
+[INFO]-[2018/04/03 02:50:39] Total 3800 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:50:28] Total 3500 files processed
+[INFO]-[2018/04/03 02:50:30] Total 3550 files processed
+[INFO]-[2018/04/03 02:50:32] Total 3600 files processed
+[INFO]-[2018/04/03 02:50:34] Total 3650 files processed
+[INFO]-[2018/04/03 02:50:35] Total 3700 files processed
+[INFO]-[2018/04/03 02:50:37] Total 3750 files processed
+[INFO]-[2018/04/03 02:50:39] Total 3800 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:50:44] Total 3850 files processed
+[INFO]-[2018/04/03 02:50:45] Total 3900 files processed
+[INFO]-[2018/04/03 02:50:46] Total 3950 files processed
+[INFO]-[2018/04/03 02:50:47] Total 4000 files processed
+[INFO]-[2018/04/03 02:50:48] Total 4050 files processed
+[INFO]-[2018/04/03 02:50:49] Total 4100 files processed
+[INFO]-[2018/04/03 02:50:50] Total 4150 files processed
+[INFO]-[2018/04/03 02:50:51] Total 4200 files processed
+[INFO]-[2018/04/03 02:50:51] Total 4250 files processed
+[INFO]-[2018/04/03 02:50:52] Total 4300 files processed
+[INFO]-[2018/04/03 02:50:53] Total 4350 files processed
+[INFO]-[2018/04/03 02:50:54] Total 4400 files processed
+[INFO]-[2018/04/03 02:50:55] Total 4450 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:50:44] Total 3850 files processed
+[INFO]-[2018/04/03 02:50:45] Total 3900 files processed
+[INFO]-[2018/04/03 02:50:46] Total 3950 files processed
+[INFO]-[2018/04/03 02:50:47] Total 4000 files processed
+[INFO]-[2018/04/03 02:50:48] Total 4050 files processed
+[INFO]-[2018/04/03 02:50:49] Total 4100 files processed
+[INFO]-[2018/04/03 02:50:50] Total 4150 files processed
+[INFO]-[2018/04/03 02:50:51] Total 4200 files processed
+[INFO]-[2018/04/03 02:50:51] Total 4250 files processed
+[INFO]-[2018/04/03 02:50:52] Total 4300 files processed
+[INFO]-[2018/04/03 02:50:53] Total 4350 files processed
+[INFO]-[2018/04/03 02:50:54] Total 4400 files processed
+[INFO]-[2018/04/03 02:50:55] Total 4450 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:51:01] Total 4500 files processed
+[INFO]-[2018/04/03 02:51:03] Trying to copy big file: C:\xampp\htdocs\wordpress/wp-content\plugins\tatsu\builder\js\bundle.js -> C:\xampp\htdocs\wordpress/conextuval2\wp-content\plugins\tatsu\builder\js\bundle.js
+[INFO]-[2018/04/03 02:51:07] Total 4550 files processed
+[INFO]-[2018/04/03 02:51:08] Total 4600 files processed
+[INFO]-[2018/04/03 02:51:10] Total 4650 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:51:01] Total 4500 files processed
+[INFO]-[2018/04/03 02:51:03] Trying to copy big file: C:\xampp\htdocs\wordpress/wp-content\plugins\tatsu\builder\js\bundle.js -> C:\xampp\htdocs\wordpress/conextuval2\wp-content\plugins\tatsu\builder\js\bundle.js
+[INFO]-[2018/04/03 02:51:07] Total 4550 files processed
+[INFO]-[2018/04/03 02:51:08] Total 4600 files processed
+[INFO]-[2018/04/03 02:51:10] Total 4650 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:51:18] Total 4700 files processed
+[INFO]-[2018/04/03 02:51:18] Total 4750 files processed
+[INFO]-[2018/04/03 02:51:21] Total 4800 files processed
+[INFO]-[2018/04/03 02:51:27] Total 4850 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:51:18] Total 4700 files processed
+[INFO]-[2018/04/03 02:51:18] Total 4750 files processed
+[INFO]-[2018/04/03 02:51:21] Total 4800 files processed
+[INFO]-[2018/04/03 02:51:27] Total 4850 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:51:33] Total 4900 files processed
+[INFO]-[2018/04/03 02:51:35] Total 4950 files processed
+[INFO]-[2018/04/03 02:51:37] Total 5000 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:51:33] Total 4900 files processed
+[INFO]-[2018/04/03 02:51:35] Total 4950 files processed
+[INFO]-[2018/04/03 02:51:37] Total 5000 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:51:49] Total 5050 files processed
+[INFO]-[2018/04/03 02:51:51] Total 5100 files processed
+[INFO]-[2018/04/03 02:51:53] Total 5150 files processed
+[INFO]-[2018/04/03 02:51:54] Total 5200 files processed
+[INFO]-[2018/04/03 02:51:55] Total 5250 files processed
+[INFO]-[2018/04/03 02:51:58] Total 5300 files processed
+[INFO]-[2018/04/03 02:51:59] Total 5350 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:51:49] Total 5050 files processed
+[INFO]-[2018/04/03 02:51:51] Total 5100 files processed
+[INFO]-[2018/04/03 02:51:53] Total 5150 files processed
+[INFO]-[2018/04/03 02:51:54] Total 5200 files processed
+[INFO]-[2018/04/03 02:51:55] Total 5250 files processed
+[INFO]-[2018/04/03 02:51:58] Total 5300 files processed
+[INFO]-[2018/04/03 02:51:59] Total 5350 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:52:06] Total 5400 files processed
+[INFO]-[2018/04/03 02:52:08] Total 5450 files processed
+[INFO]-[2018/04/03 02:52:09] Total 5500 files processed
+[INFO]-[2018/04/03 02:52:11] Total 5550 files processed
+[INFO]-[2018/04/03 02:52:13] Total 5600 files processed
+[INFO]-[2018/04/03 02:52:15] Total 5650 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:52:06] Total 5400 files processed
+[INFO]-[2018/04/03 02:52:08] Total 5450 files processed
+[INFO]-[2018/04/03 02:52:09] Total 5500 files processed
+[INFO]-[2018/04/03 02:52:11] Total 5550 files processed
+[INFO]-[2018/04/03 02:52:13] Total 5600 files processed
+[INFO]-[2018/04/03 02:52:15] Total 5650 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:52:21] Total 5700 files processed
+[INFO]-[2018/04/03 02:52:24] Total 5750 files processed
+[INFO]-[2018/04/03 02:52:25] Total 5800 files processed
+[INFO]-[2018/04/03 02:52:27] Total 5850 files processed
+[INFO]-[2018/04/03 02:52:29] Total 5900 files processed
+[INFO]-[2018/04/03 02:52:31] Total 5950 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:52:21] Total 5700 files processed
+[INFO]-[2018/04/03 02:52:24] Total 5750 files processed
+[INFO]-[2018/04/03 02:52:25] Total 5800 files processed
+[INFO]-[2018/04/03 02:52:27] Total 5850 files processed
+[INFO]-[2018/04/03 02:52:29] Total 5900 files processed
+[INFO]-[2018/04/03 02:52:31] Total 5950 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:52:37] Total 6000 files processed
+[INFO]-[2018/04/03 02:52:38] Total 6050 files processed
+[INFO]-[2018/04/03 02:52:40] Total 6100 files processed
+[INFO]-[2018/04/03 02:52:42] Total 6150 files processed
+[INFO]-[2018/04/03 02:52:46] Total 6200 files processed
+[INFO]-[2018/04/03 02:52:48] Total 6250 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:52:37] Total 6000 files processed
+[INFO]-[2018/04/03 02:52:38] Total 6050 files processed
+[INFO]-[2018/04/03 02:52:40] Total 6100 files processed
+[INFO]-[2018/04/03 02:52:42] Total 6150 files processed
+[INFO]-[2018/04/03 02:52:46] Total 6200 files processed
+[INFO]-[2018/04/03 02:52:48] Total 6250 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:53:02] Total 6300 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:53:02] Total 6300 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:53:14] Total 6350 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:53:14] Total 6350 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:53:28] Total 6400 files processed
+[INFO]-[2018/04/03 02:53:33] Total 6450 files processed
+[INFO]-[2018/04/03 02:53:39] Total 6500 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:53:28] Total 6400 files processed
+[INFO]-[2018/04/03 02:53:33] Total 6450 files processed
+[INFO]-[2018/04/03 02:53:39] Total 6500 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:53:51] Total 6550 files processed
+[INFO]-[2018/04/03 02:53:55] Total 6600 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:53:51] Total 6550 files processed
+[INFO]-[2018/04/03 02:53:55] Total 6600 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:54:08] Total 6650 files processed
+[INFO]-[2018/04/03 02:54:10] Total 6700 files processed
+[INFO]-[2018/04/03 02:54:12] Total 6750 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:54:08] Total 6650 files processed
+[INFO]-[2018/04/03 02:54:10] Total 6700 files processed
+[INFO]-[2018/04/03 02:54:12] Total 6750 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:54:25] Total 6800 files processed
+[INFO]-[2018/04/03 02:54:28] Total 6850 files processed
+[INFO]-[2018/04/03 02:54:33] Total 6900 files processed
+[INFO]-[2018/04/03 02:54:35] Total 6950 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:54:25] Total 6800 files processed
+[INFO]-[2018/04/03 02:54:28] Total 6850 files processed
+[INFO]-[2018/04/03 02:54:33] Total 6900 files processed
+[INFO]-[2018/04/03 02:54:35] Total 6950 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:54:46] Total 7000 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:54:46] Total 7000 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:55:04] Total 7050 files processed
+[INFO]-[2018/04/03 02:55:13] Total 7100 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:55:04] Total 7050 files processed
+[INFO]-[2018/04/03 02:55:13] Total 7100 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:55:28] Total 7150 files processed
+[INFO]-[2018/04/03 02:55:34] Total 7200 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:55:28] Total 7150 files processed
+[INFO]-[2018/04/03 02:55:34] Total 7200 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:55:46] Total 7250 files processed
+[INFO]-[2018/04/03 02:55:49] Total 7300 files processed
+[INFO]-[2018/04/03 02:55:52] Total 7350 files processed
+[INFO]-[2018/04/03 02:55:54] Total 7400 files processed
+[INFO]-[2018/04/03 02:55:55] Total 7450 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:55:46] Total 7250 files processed
+[INFO]-[2018/04/03 02:55:49] Total 7300 files processed
+[INFO]-[2018/04/03 02:55:52] Total 7350 files processed
+[INFO]-[2018/04/03 02:55:54] Total 7400 files processed
+[INFO]-[2018/04/03 02:55:55] Total 7450 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:56:03] Total 7500 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:56:03] Total 7500 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:56:21] Total 7550 files processed
+[INFO]-[2018/04/03 02:56:23] Total 7600 files processed
+[INFO]-[2018/04/03 02:56:26] Total 7650 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:56:21] Total 7550 files processed
+[INFO]-[2018/04/03 02:56:23] Total 7600 files processed
+[INFO]-[2018/04/03 02:56:26] Total 7650 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:56:46] Total 7700 files processed
+[INFO]-[2018/04/03 02:56:50] Total 7750 files processed
+[INFO]-[2018/04/03 02:56:53] Total 7800 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:56:46] Total 7700 files processed
+[INFO]-[2018/04/03 02:56:50] Total 7750 files processed
+[INFO]-[2018/04/03 02:56:53] Total 7800 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:57:03] Total 7850 files processed
+[INFO]-[2018/04/03 02:57:08] Total 7900 files processed
+[INFO]-[2018/04/03 02:57:10] Skipping big file: C:\xampp\htdocs\wordpress/wp-content\themes\oshin\lib\plugins\oshine-core.zip
+[INFO]-[2018/04/03 02:57:10] Trying to copy big file: C:\xampp\htdocs\wordpress/wp-content\themes\oshin\lib\plugins\revslider.zip -> C:\xampp\htdocs\wordpress/conextuval2\wp-content\themes\oshin\lib\plugins\revslider.zip
+[INFO]-[2018/04/03 02:57:10] Trying to copy big file: C:\xampp\htdocs\wordpress/wp-content\themes\oshin\lib\plugins\tatsu.zip -> C:\xampp\htdocs\wordpress/conextuval2\wp-content\themes\oshin\lib\plugins\tatsu.zip
+[INFO]-[2018/04/03 02:57:11] Total 7950 files processed
+[INFO]-[2018/04/03 02:57:12] Total 8000 files processed
+[INFO]-[2018/04/03 02:57:15] Total 8050 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:57:03] Total 7850 files processed
+[INFO]-[2018/04/03 02:57:08] Total 7900 files processed
+[INFO]-[2018/04/03 02:57:10] Skipping big file: C:\xampp\htdocs\wordpress/wp-content\themes\oshin\lib\plugins\oshine-core.zip
+[INFO]-[2018/04/03 02:57:10] Trying to copy big file: C:\xampp\htdocs\wordpress/wp-content\themes\oshin\lib\plugins\revslider.zip -> C:\xampp\htdocs\wordpress/conextuval2\wp-content\themes\oshin\lib\plugins\revslider.zip
+[INFO]-[2018/04/03 02:57:10] Trying to copy big file: C:\xampp\htdocs\wordpress/wp-content\themes\oshin\lib\plugins\tatsu.zip -> C:\xampp\htdocs\wordpress/conextuval2\wp-content\themes\oshin\lib\plugins\tatsu.zip
+[INFO]-[2018/04/03 02:57:11] Total 7950 files processed
+[INFO]-[2018/04/03 02:57:12] Total 8000 files processed
+[INFO]-[2018/04/03 02:57:15] Total 8050 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:57:22] Total 8100 files processed
+[INFO]-[2018/04/03 02:57:25] Total 8150 files processed
+[INFO]-[2018/04/03 02:57:27] Total 8200 files processed
+[INFO]-[2018/04/03 02:57:29] Total 8250 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:57:22] Total 8100 files processed
+[INFO]-[2018/04/03 02:57:25] Total 8150 files processed
+[INFO]-[2018/04/03 02:57:27] Total 8200 files processed
+[INFO]-[2018/04/03 02:57:29] Total 8250 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:57:40] Total 8300 files processed
+[INFO]-[2018/04/03 02:57:44] Total 8350 files processed
+[INFO]-[2018/04/03 02:57:45] Total 8400 files processed
+[INFO]-[2018/04/03 02:57:47] Total 8450 files processed
+[INFO]-[2018/04/03 02:57:49] Total 8500 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:57:40] Total 8300 files processed
+[INFO]-[2018/04/03 02:57:44] Total 8350 files processed
+[INFO]-[2018/04/03 02:57:45] Total 8400 files processed
+[INFO]-[2018/04/03 02:57:47] Total 8450 files processed
+[INFO]-[2018/04/03 02:57:49] Total 8500 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:57:58] Total 8550 files processed
+[INFO]-[2018/04/03 02:58:01] Total 8600 files processed
+[INFO]-[2018/04/03 02:58:03] Total 8650 files processed
+[INFO]-[2018/04/03 02:58:06] Total 8700 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:57:58] Total 8550 files processed
+[INFO]-[2018/04/03 02:58:01] Total 8600 files processed
+[INFO]-[2018/04/03 02:58:03] Total 8650 files processed
+[INFO]-[2018/04/03 02:58:06] Total 8700 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:58:13] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\updraft\.htaccess
+[INFO]-[2018/04/03 02:58:14] Total 8750 files processed
+[INFO]-[2018/04/03 02:58:15] Total 8800 files processed
+[INFO]-[2018/04/03 02:58:17] Total 8850 files processed
+[INFO]-[2018/04/03 02:58:18] Total 8900 files processed
+[INFO]-[2018/04/03 02:58:19] Total 8950 files processed
+[INFO]-[2018/04/03 02:58:20] Total 9000 files processed
+[INFO]-[2018/04/03 02:58:22] Total 9050 files processed
+[INFO]-[2018/04/03 02:58:23] Total 9100 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:58:13] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\updraft\.htaccess
+[INFO]-[2018/04/03 02:58:14] Total 8750 files processed
+[INFO]-[2018/04/03 02:58:15] Total 8800 files processed
+[INFO]-[2018/04/03 02:58:17] Total 8850 files processed
+[INFO]-[2018/04/03 02:58:18] Total 8900 files processed
+[INFO]-[2018/04/03 02:58:19] Total 8950 files processed
+[INFO]-[2018/04/03 02:58:20] Total 9000 files processed
+[INFO]-[2018/04/03 02:58:22] Total 9050 files processed
+[INFO]-[2018/04/03 02:58:23] Total 9100 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:58:30] Total 9150 files processed
+[INFO]-[2018/04/03 02:58:31] Total 9200 files processed
+[INFO]-[2018/04/03 02:58:33] Total 9250 files processed
+[INFO]-[2018/04/03 02:58:35] Total 9300 files processed
+[INFO]-[2018/04/03 02:58:36] Total 9350 files processed
+[INFO]-[2018/04/03 02:58:38] Total 9400 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:58:30] Total 9150 files processed
+[INFO]-[2018/04/03 02:58:31] Total 9200 files processed
+[INFO]-[2018/04/03 02:58:33] Total 9250 files processed
+[INFO]-[2018/04/03 02:58:35] Total 9300 files processed
+[INFO]-[2018/04/03 02:58:36] Total 9350 files processed
+[INFO]-[2018/04/03 02:58:38] Total 9400 files processed
+[INFO]-[2018/04/03 02:58:45] Total 9450 files processed
+[INFO]-[2018/04/03 02:58:46] Total 9500 files processed
+[INFO]-[2018/04/03 02:58:48] Total 9550 files processed
+[INFO]-[2018/04/03 02:58:48] Trying to copy big file: C:\xampp\htdocs\wordpress/wp-content\uploads\GeoIPv6.dat -> C:\xampp\htdocs\wordpress/conextuval2\wp-content\uploads\GeoIPv6.dat
+[INFO]-[2018/04/03 02:58:49] Total 9600 files processed
+[INFO]-[2018/04/03 02:58:51] Total 9650 files processed
+[INFO]-[2018/04/03 02:58:53] Total 9700 files processed
+[INFO]-[2018/04/03 02:58:54] Total 9750 files processed
+[INFO]-[2018/04/03 02:58:56] Total 9800 files processed
+[INFO]-[2018/04/03 02:58:45] Total 9450 files processed
+[INFO]-[2018/04/03 02:58:46] Total 9500 files processed
+[INFO]-[2018/04/03 02:58:48] Total 9550 files processed
+[INFO]-[2018/04/03 02:58:48] Trying to copy big file: C:\xampp\htdocs\wordpress/wp-content\uploads\GeoIPv6.dat -> C:\xampp\htdocs\wordpress/conextuval2\wp-content\uploads\GeoIPv6.dat
+[INFO]-[2018/04/03 02:58:49] Total 9600 files processed
+[INFO]-[2018/04/03 02:58:51] Total 9650 files processed
+[INFO]-[2018/04/03 02:58:53] Total 9700 files processed
+[INFO]-[2018/04/03 02:58:54] Total 9750 files processed
+[INFO]-[2018/04/03 02:58:56] Total 9800 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:59:02] Total 9850 files processed
+[INFO]-[2018/04/03 02:59:03] Total 9900 files processed
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wc-logs\.htaccess
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wc-logs\fatal-errors-a8bc4bdb8f76a329454c493124b2f3c6.log
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wc-logs\geoip-f567c3e97db4602eb51ee692d83421d0.log
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wc-logs\test-log.log
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wc-logs\wc-image-regeneration-96cabaae189f914236828a132f9dbe5a.log
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\woocommerce_uploads\.htaccess
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wp-staging\logs\2018_04_03.log
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wp-staging\logs\conextuval1.log
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wp-staging\logs\conextuval2.log
+[INFO]-[2018/04/03 02:59:03] Total 9950 files processed
+[INFO]-[2018/04/03 02:59:09] Total 10000 files processed
+[INFO]-[2018/04/03 02:59:12] Total 10050 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:59:02] Total 9850 files processed
+[INFO]-[2018/04/03 02:59:03] Total 9900 files processed
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wc-logs\.htaccess
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wc-logs\fatal-errors-a8bc4bdb8f76a329454c493124b2f3c6.log
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wc-logs\geoip-f567c3e97db4602eb51ee692d83421d0.log
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wc-logs\test-log.log
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wc-logs\wc-image-regeneration-96cabaae189f914236828a132f9dbe5a.log
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\woocommerce_uploads\.htaccess
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wp-staging\logs\2018_04_03.log
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wp-staging\logs\conextuval1.log
+[INFO]-[2018/04/03 02:59:03] Skipping file by rule: C:\xampp\htdocs\wordpress/wp-content\uploads\wp-staging\logs\conextuval2.log
+[INFO]-[2018/04/03 02:59:03] Total 9950 files processed
+[INFO]-[2018/04/03 02:59:09] Total 10000 files processed
+[INFO]-[2018/04/03 02:59:12] Total 10050 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:59:19] Total 10100 files processed
+[INFO]-[2018/04/03 02:59:22] Total 10150 files processed
+[INFO]-[2018/04/03 02:59:25] Total 10200 files processed
+[INFO]-[2018/04/03 02:59:26] Total 10250 files processed
+[INFO]-[2018/04/03 02:59:29] Total 10300 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:59:19] Total 10100 files processed
+[INFO]-[2018/04/03 02:59:22] Total 10150 files processed
+[INFO]-[2018/04/03 02:59:25] Total 10200 files processed
+[INFO]-[2018/04/03 02:59:26] Total 10250 files processed
+[INFO]-[2018/04/03 02:59:29] Total 10300 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:59:36] Total 10350 files processed
+[INFO]-[2018/04/03 02:59:46] Total 10400 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:59:36] Total 10350 files processed
+[INFO]-[2018/04/03 02:59:46] Total 10400 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:59:55] Total 10450 files processed
+[INFO]-[2018/04/03 02:59:57] Total 10500 files processed
+[INFO]-[2018/04/03 03:00:00] Total 10550 files processed
+[]-[] 
+[INFO]-[2018/04/03 02:59:55] Total 10450 files processed
+[INFO]-[2018/04/03 02:59:57] Total 10500 files processed
+[INFO]-[2018/04/03 03:00:00] Total 10550 files processed
+[]-[] 
+[INFO]-[2018/04/03 03:00:09] Total 10600 files processed
+[INFO]-[2018/04/03 03:00:10] Total 10650 files processed
+[INFO]-[2018/04/03 03:00:14] Total 10700 files processed
+[INFO]-[2018/04/03 03:00:19] Total 10750 files processed
+[]-[] 
+[INFO]-[2018/04/03 03:00:09] Total 10600 files processed
+[INFO]-[2018/04/03 03:00:10] Total 10650 files processed
+[INFO]-[2018/04/03 03:00:14] Total 10700 files processed
+[INFO]-[2018/04/03 03:00:19] Total 10750 files processed
+[]-[] 
+[INFO]-[2018/04/03 03:00:31] Total 10800 files processed
+[INFO]-[2018/04/03 03:00:33] Total 10850 files processed
+[INFO]-[2018/04/03 03:00:35] Total 10900 files processed
+[INFO]-[2018/04/03 03:00:39] Total 10950 files processed
+[]-[] 
+[INFO]-[2018/04/03 03:00:31] Total 10800 files processed
+[INFO]-[2018/04/03 03:00:33] Total 10850 files processed
+[INFO]-[2018/04/03 03:00:35] Total 10900 files processed
+[INFO]-[2018/04/03 03:00:39] Total 10950 files processed
+[]-[] 
+[INFO]-[2018/04/03 03:00:46] Total 11000 files processed
+[]-[] 
+[INFO]-[2018/04/03 03:00:46] Total 11000 files processed
+[]-[] 
+[INFO]-[2018/04/03 03:01:03] Total 11050 files processed
+[]-[] 
+[INFO]-[2018/04/03 03:01:03] Total 11050 files processed
+[]-[] 
+[INFO]-[2018/04/03 03:01:24] Total 11100 files processed
+[INFO]-[2018/04/03 03:01:28] Total 11150 files processed
+[INFO]-[2018/04/03 03:01:30] Total 11200 files processed
+[]-[] 
+[INFO]-[2018/04/03 03:01:24] Total 11100 files processed
+[INFO]-[2018/04/03 03:01:28] Total 11150 files processed
+[INFO]-[2018/04/03 03:01:30] Total 11200 files processed
+[]-[] 
+[INFO]-[2018/04/03 03:01:45] Total 11250 files processed
+[]-[] 
+[INFO]-[2018/04/03 03:01:45] Total 11250 files processed
+[]-[] 
+[INFO]-[2018/04/03 03:01:57] Copying files finished
+[]-[] 
+[INFO]-[2018/04/03 03:01:57] Copying files finished
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating siteurl and homeurl in wpstg1_options 
+[INFO]-[2018/04/03 03:02:01] Search & Replace:: Updating siteurl and homeurl to http://localhost/wordpress/conextuval2
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating row wpstg_is_staging_site in wpstg1_options 
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating rewrite_rules in wpstg1_options 
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating wpstg1_usermeta db prefix 
+[INFO]-[2018/04/03 03:02:01] Updating wpstg1_options, option_name database table prefixes; 
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating table_prefix in C:\xampp\htdocs\wordpress/conextuval2/wp-config.php to wpstg1_
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating wpstg_rmpermalinks_executed in wpstg1_options 
+[WARNING]-[2018/04/03 03:02:01] Failed to update wpstg_rmpermalinks_executed in wpstg1_options 
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating permalink_structure in wpstg1_options 
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Finished Step 8 successfully
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating blog_public in wpstg1_options 
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Finished Step 9 successfully
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating siteurl and homeurl in wpstg1_options 
+[INFO]-[2018/04/03 03:02:01] Search & Replace:: Updating siteurl and homeurl to http://localhost/wordpress/conextuval2
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating row wpstg_is_staging_site in wpstg1_options 
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating rewrite_rules in wpstg1_options 
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating wpstg1_usermeta db prefix 
+[INFO]-[2018/04/03 03:02:01] Updating wpstg1_options, option_name database table prefixes; 
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating table_prefix in C:\xampp\htdocs\wordpress/conextuval2/wp-config.php to wpstg1_
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating wpstg_rmpermalinks_executed in wpstg1_options 
+[WARNING]-[2018/04/03 03:02:01] Failed to update wpstg_rmpermalinks_executed in wpstg1_options 
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating permalink_structure in wpstg1_options 
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Finished Step 8 successfully
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Updating blog_public in wpstg1_options 
+[INFO]-[2018/04/03 03:02:01] Search & Replace: Finished Step 9 successfully
+[]-[] 
+[]-[] 
+[INFO]-[2018/04/03 03:02:11] Finish: Deleting clone job's cache files...
+[INFO]-[2018/04/03 03:02:11] Finish: Clone job's cache files have been deleted!
+[INFO]-[2018/04/03 03:02:11] Finish: Verifying existing clones...
+[INFO]-[2018/04/03 03:02:11] Finish: conextuval2's clone job's data is not in database, generating data
+[INFO]-[2018/04/03 03:02:11] Finish: Deleting clone job's cache files...
+[INFO]-[2018/04/03 03:02:11] Finish: Clone job's cache files have been deleted!
+[INFO]-[2018/04/03 03:02:11] Finish: Verifying existing clones...
+[INFO]-[2018/04/03 03:02:11] Finish: conextuval2's clone job's data is not in database, generating data

@@ -1,0 +1,1392 @@
+ID,Title,Date,"Parent Product ID",Sku,Price,"Regular Price","Stock Status",Stock,"Product Visibility","Product Type","Categorías de productos",Status,Slug,Backorders,"Tax Status","Tax Class","Product Image Gallery","Variation Description","Wc Rating Count","Wc Review Count","Wc Average Rating","Image URL","Image Filename","Image Path"
+3095,,20180311,0,,,,instock,,visible,variable,"Sin categoría",publish,3095,no,taxable,parent,,,a:0:{},0,0,,,
+3096,,20180311,0,,380.79,380.79,instock,,visible,variable,"Sin categoría",publish,3096,no,taxable,parent,,,a:0:{},0,0,,,
+3097,,20180311,0,,699.64,699.64,instock,,visible,variable,"Sin categoría",publish,3097,no,taxable,parent,,,a:0:{},0,0,,,
+3098,,20180311,0,,968.79,968.79,instock,,visible,variable,"Sin categoría",publish,3098,no,taxable,parent,,,a:0:{},0,0,,,
+3099,,20180311,0,,1450.40,1450.40,instock,,visible,variable,"Sin categoría",publish,3099,no,taxable,parent,,,a:0:{},0,0,,,
+5590,"B2 Tuerca Giratoria",20180323,0,B2,1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-giratoria,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B2-FIJO-e1494550025606.png|http://localhost/wordpress/wp-content/uploads/2018/03/B2-Tuerca-Giratoria-C.jpg,B2-FIJO-e1494550025606.png|B2-Tuerca-Giratoria-C.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B2-FIJO-e1494550025606.png|C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B2-Tuerca-Giratoria-C.jpg"
+5591,"B2 Tuerca Giratoria - 1/4 x 1/4",20180323,5590,B2TG0404BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-giratoria-b2tg0404br,no,taxable,parent,,"Ancho (A)  1/4
+Largo  (B)  1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/EFREF-e1521854504313.jpg,EFREF-e1521854504313.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/EFREF-e1521854504313.jpg"
+5592,"B2 Tuerca Giratoria - 1/4 x 5/16",20180323,5590,B2TG0406BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-giratoria-b2tg0406br,no,taxable,parent,,"Ancho (A) 1/4
+Largo  (B) 5/16
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/EFREF-e1521854504313.jpg,EFREF-e1521854504313.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/EFREF-e1521854504313.jpg"
+5593,"B2 Tuerca Giratoria - 3/8 x 3/8",20180323,5590,B2TG0606BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-giratoria-b2tg0606br,no,taxable,parent,,"Ancho (A) 3/8
+Largo  (B) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/EFREF-e1521854504313.jpg,EFREF-e1521854504313.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/EFREF-e1521854504313.jpg"
+5594,"B2 Tuerca Giratoria - 1/2 x 1/2",20180323,5590,B2TG0808BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-giratoria-b2tg0808br,no,taxable,parent,,"Ancho (A) 1/2
+Largo  (B) 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/EFREF-e1521854504313.jpg,EFREF-e1521854504313.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/EFREF-e1521854504313.jpg"
+5595,"B2 Tuerca Giratoria - 9/16 derecho x 1/4",20180323,5590,B2TGD0904BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-giratoria-b2tgd0904br,no,taxable,parent,,"Ancho (A) 9/16 derecho 
+Largo  (B) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/EFREF-e1521854504313.jpg,EFREF-e1521854504313.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/EFREF-e1521854504313.jpg"
+5596,"B2 Tuerca Giratoria - 9/16 izquierdo x 1/4",20180323,5590,B2TGI0904BR,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-giratoria-b2tgi0904br,no,taxable,parent,,"Ancho (A) 9/16 izquierdo
+Largo  (B) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/EFREF-e1521854504313.jpg,EFREF-e1521854504313.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/EFREF-e1521854504313.jpg"
+5598,"B2 Tuerca Fija",20180323,0,B2TF,1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B2-FIJO-e1494550025606.png,B2-FIJO-e1494550025606.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B2-FIJO-e1494550025606.png"
+5599,"B2 Tuerca Fija - 1/8 x 1/4",20180323,5598,B2TF0204BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0204br,no,taxable,parent,,"Largo  (A)   1/4
+Ancho (B)   1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5600,"B2 Tuerca Fija - 1/8 x 5/16",20180323,5598,B2TF0205BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0205br,no,taxable,parent,,"Largo  (A)  5/16
+Ancho (B)   1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5601,"B2 Tuerca Fija - 1/8 x 3/8",20180323,5598,B2TF0206BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0206br,no,taxable,parent,,"Largo  (A)   3/8
+Ancho (B)   1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5602,"B2 Tuerca Fija - 1/4x1/4",20180323,5598,B2TF0404BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0404br,no,taxable,parent,,"Largo  (A)   1/4
+Ancho (B)   1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5603,"B2 Tuerca Fija - 1/4 x 5/16",20180323,5598,B2TF0405BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0405br,no,taxable,parent,,"Largo  (A)   5/16
+Ancho (B)   1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5604,"B2 Tuerca Fija - 1/4 x 3/8",20180323,5598,B2TF0406BR,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0406br,no,taxable,parent,,"Largo  (A)   3/8
+Ancho (B)   1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5605,"B2 Tuerca Fija - 1/4 x 1/2",20180323,5598,B2TF0408BR,7.00,7.00,instock,7,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0408br,no,taxable,parent,,"Largo  (A)   1/2
+Ancho (B)   1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5606,"B2 Tuerca Fija - 3/8 x 1/4",20180323,5598,B2TF0604BR,8.00,8.00,instock,8,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0604br,no,taxable,parent,,"Largo  (A)   1/4
+Ancho (B)   3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5607,"B2 Tuerca Fija - 3/8 x 5/16",20180323,5598,B2TF0605BR,9.00,9.00,instock,9,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0605br,no,taxable,parent,,"Largo  (A)   5/16
+Ancho (B)   3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5608,"B2 Tuerca Fija - 3/8 x 3/8",20180323,5598,B2TF0606BR,10.00,10.00,instock,10,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0606br,no,taxable,parent,,"Largo  (A)   3/8
+Ancho (B)   3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5609,"B2 Tuerca Fija - 3/8 x 1/2",20180323,5598,B2TF0608BR,11.00,11.00,instock,11,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0608br,no,taxable,parent,,"Largo  (A)   1/2
+Ancho (B)   3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5610,"B2 Tuerca Fija - 1/2 x 1/4",20180323,5598,B2TF0804BR,12.00,12.00,instock,12,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0804br,no,taxable,parent,,"Largo  (A)   1/4
+Ancho (B)   1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5611,"B2 Tuerca Fija - 1/2 x 5/16",20180323,5598,B2TF0805BR,13.00,13.00,instock,13,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0805br,no,taxable,parent,,"Largo  (A)   5/16
+Ancho (B)   1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5612,"B2 Tuerca Fija - 1/2 x 3/8",20180323,5598,B2TF0806BR,14.00,14.00,instock,14,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0806br,no,taxable,parent,,"Largo  (A)   3/8
+Ancho (B)   1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5613,"B2 Tuerca Fija - 1/2 x 1/2",20180323,5598,B2TF0808BR,15.00,15.00,instock,15,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tf0808br,no,taxable,parent,,"Largo  (A)   1/2
+Ancho (B)   1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5614,"B2 Tuerca Fija - 9/16 derecho x 1/4",20180323,5598,B2TFD0904BR,16.00,16.00,instock,16,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tfd0904br,no,taxable,parent,,"Largo  (A)   1/4
+Ancho (B)   9/16 derecho
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5615,"B2 Tuerca Fija - 9/16 izquierdo x 1/4",20180323,5598,B2TFI0904BR,17.00,17.00,instock,17,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tfi0904br,no,taxable,parent,,"Largo  (A)   1/4
+Ancho (B)   9/16 izquierdo
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5616,"B2 Tuerca Fija - 9/16 derecho x 9/16",20180323,5598,B2TFD0909BR,18.00,18.00,instock,18,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tfd0909br,no,taxable,parent,,"Largo  (A)   9/16
+Ancho (B)  9/16 derecho
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5617,"B2 Tuerca Fija - 9/16 derecho x ½",20180323,5598,B2TFD0908BR,19.00,19.00,instock,19,visible,variable,"Conexiones en Bronce y Aluminio",publish,b2-tuerca-fija-b2tfd0908br,no,taxable,parent,,"Largo  (A)   1/2
+Ancho (B)  9/16 derecho
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg,0000012839_JFTT.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/0000012839_JFTT.jpg"
+5680,"B3 Empate Espiga x Espiga",20180329,0,B3,1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-EMPATE-e1494551213989.png,B3-EMPATE-e1494551213989.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-EMPATE-e1494551213989.png"
+5683,"B3 Empate Espiga x Espiga - 3/16 x 3/16",20180329,5680,B3EM0303BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-b3em0303br,no,taxable,parent,,"Espiga (A)  3/16
+Espiga (B)  3/16
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg,05_04-206p-2.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg"
+5684,"B3 Empate Espiga x Espiga - 3/16 x 1/4",20180329,5680,B3EM0304BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-b3em0304br,no,taxable,parent,,"Espiga (A)   3/16
+Espiga (B)   1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg,05_04-206p-2.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg"
+5685,"B3 Empate Espiga x Espiga - 1/4 x 1/4",20180329,5680,B3EM0404BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-b3em0404br,no,taxable,parent,,"Espiga (A)   1/4
+Espiga (B)   1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg,05_04-206p-2.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg"
+5686,"B3 Empate Espiga x Espiga - 1/4 x 5/16",20180329,5680,B3EM0405BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-b3em0405br,no,taxable,parent,,"Espiga (A)   1/4
+Espiga (B)   5/16
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg,05_04-206p-2.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg"
+5687,"B3 Empate Espiga x Espiga - 1/4 x 3/8",20180329,5680,B3EM0406BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-b3em0406br,no,taxable,parent,,"Espiga (A) 1/4
+Espiga (B)  3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg,05_04-206p-2.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg"
+5688,"B3 Empate Espiga x Espiga - 5/16 x 5/16",20180329,5680,B3EM0505BR,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-b3em0505br,no,taxable,parent,,"Espiga (A)  5/16
+Espiga (B)  5/16
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg,05_04-206p-2.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg"
+5689,"B3 Empate Espiga x Espiga - 5/16 x 3/8",20180329,5680,B3EM0506BR,7.00,7.00,instock,7,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-b3em0506br,no,taxable,parent,,"Espiga (A)  5/16
+Espiga (B)  3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg,05_04-206p-2.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg"
+5690,"B3 Empate Espiga x Espiga - 3/8 x 3/8",20180329,5680,B3EM0606BR,8.00,8.00,instock,8,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-b3em0606br,no,taxable,parent,,"Espiga (A)  3/8
+Espiga (B)  3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg,05_04-206p-2.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg"
+5691,"B3 Empate Espiga x Espiga - 3/8 x 1/2",20180329,5680,B3EM0608BR,9.00,9.00,instock,9,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-b3em0608br,no,taxable,parent,,"Espiga (A)  3/8
+Espiga (B)  1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg,05_04-206p-2.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg"
+5692,"B3 Empate Espiga x Espiga - 1/2 x 1/2",20180329,5680,B3EM0808BR,9.00,9.00,instock,9,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-b3em0808br,no,taxable,parent,,"Espiga (A)  1/2
+Espiga (B)  1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg,05_04-206p-2.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg"
+5693,"B3 Empate Espiga x Espiga - 5/8 x 5/8",20180329,5680,B3EM1010BR,10.00,10.00,instock,10,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-b3em1010br,no,taxable,parent,,"Espiga (A)  5/8
+Espiga (B)  5/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg,05_04-206p-2.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/05_04-206p-2.jpg"
+5697,"B3 Empate Espiga x Espiga Duraluminio",20180330,0,"B3 EE",1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-duraluminio,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-EMPATE-DURAL-e1494552458847.png,B3-EMPATE-DURAL-e1494552458847.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-EMPATE-DURAL-e1494552458847.png"
+5698,"B3 Empate Espiga x Espiga Duraluminio - 3/16 x 3/16",20180330,5697,B3EM0303AL,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-duraluminio-b3em0303al,no,taxable,parent,,"Espiga (A)  3/16
+Espiga (B)  3/16
+Material	Latón
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5699,"B3 Empate Espiga x Espiga Duraluminio - 3/16 x 1/4",20180330,5697,B3EM0304AL,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-duraluminio-b3em0304al,no,taxable,parent,,"Espiga (A)  3/16
+Espiga (B)  1/4
+Material	Latón
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5700,"B3 Empate Espiga x Espiga Duraluminio - 1/4 x 1/4",20180330,5697,B3EM0404AL,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-duraluminio-b3em0404al,no,taxable,parent,,"Espiga (A)  1/4
+Espiga (B)  1/4
+Material	Latón
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5701,"B3 Empate Espiga x Espiga Duraluminio - 1/4 x 5/16",20180330,5697,B3EM0405AL,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-duraluminio-b3em0405al,no,taxable,parent,,"Espiga (A)  1/4
+Espiga (B)  5/16
+Material	Latón
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5702,"B3 Empate Espiga x Espiga Duraluminio - 1/4 x 3/8",20180330,5697,B3EM0406AL,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-duraluminio-b3em0406al,no,taxable,parent,,"Espiga (A)  1/4
+Espiga (B)  3/8
+Material	Latón
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5703,"B3 Empate Espiga x Espiga Duraluminio - 5/16 x 5/16",20180330,5697,B3EM0505AL,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-duraluminio-b3em0505al,no,taxable,parent,,"Espiga (A)  5/16
+Espiga (B)  5/16
+Material	Latón
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5704,"B3 Empate Espiga x Espiga Duraluminio - 5/16 x 3/8",20180330,5697,B3EM0506AL,7.00,7.00,instock,7,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-duraluminio-b3em0506al,no,taxable,parent,,"Espiga (A)  5/16
+Espiga (B)  3/8
+Material	Latón
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5705,"B3 Empate Espiga x Espiga Duraluminio - 3/8 x 3/8",20180330,5697,B3EM0606AL,8.00,8.00,instock,8,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-duraluminio-b3em0606al,no,taxable,parent,,"Espiga (A)  3/8
+Espiga (B)  3/8
+Material	Latón
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5706,"B3 Empate Espiga x Espiga Duraluminio - 3/8 x 1/2",20180330,5697,B3EM0608AL,9.00,9.00,instock,9,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-duraluminio-b3em0608al,no,taxable,parent,,"Espiga (A)  3/8
+Espiga (B)  1/2
+Material	Latón
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5707,"B3 Empate Espiga x Espiga Duraluminio - 1/2 x 1/2",20180330,5697,B3EM0808AL,10.00,10.00,instock,10,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-empate-espiga-x-espiga-duraluminio-b3em0808al,no,taxable,parent,,"Espiga (A)  1/2
+Espiga (B)  1/2
+Material	Latón
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5708,"B3 Recto Pulgada x Pulgada",20180330,0,"B3 R",1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO-e1494553242925.png|http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO-e1494553242925.png|B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO-e1494553242925.png|C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5787,"B3 Recto Pulgada x Pulgada - 1/8 x 1/8",20180331,5708,B3RE0202BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0202br,no,taxable,parent,,"Largo (B)	 1/8
+Ancho (A) 1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5788,"B3 Recto Pulgada x Pulgada - 1/8 x 3/16",20180331,5708,B3RE0203BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0203br,no,taxable,parent,,"Largo (B)	 3/16
+Ancho (A) 1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5789,"B3 Recto Pulgada x Pulgada - 1/8 x 1/4",20180331,5708,B3RE0204BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0204br,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5790,"B3 Recto Pulgada x Pulgada - 1/8 x 5/16",20180331,5708,B3RE0205BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0205br,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5791,"B3 Recto Pulgada x Pulgada - 1/8 x 3/8",20180331,5708,B3RE0206BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0206br,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5792,"B3 Recto Pulgada x Pulgada - 1/4 x 1/8",20180331,5708,B3RE0402BR,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0402br,no,taxable,parent,,"Largo (B)	 1/8
+Ancho (A) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5793,"B3 Recto Pulgada x Pulgada - 1/4 x 1/4",20180331,5708,B3RE0404BR,7.00,7.00,instock,7,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0404br,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5794,"B3 Recto Pulgada x Pulgada - 1/4 x 5/16",20180331,5708,B3RE0405BR,8.00,8.00,instock,8,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0405br,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5795,"B3 Recto Pulgada x Pulgada - 1/4 x 3/8",20180331,5708,B3RE0406BR,9.00,9.00,instock,9,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0406br,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5796,"B3 Recto Pulgada x Pulgada - 1/4 x 1/2",20180331,5708,B3RE0408BR,10.00,10.00,instock,10,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0408br,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5797,"B3 Recto Pulgada x Pulgada - 3/8 x 1/8",20180331,5708,B3RE0602BR,11.00,11.00,instock,11,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0602br,no,taxable,parent,,"Largo (B)	 1/8
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5798,"B3 Recto Pulgada x Pulgada - 3/8 x 1/4",20180331,5708,B3RE0604BR,12.00,12.00,instock,12,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0604br,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5799,"B3 Recto Pulgada x Pulgada - 3/8 x 5/16",20180331,5708,B3RE0605BR,13.00,13.00,instock,13,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0605br,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5800,"B3 Recto Pulgada x Pulgada - 3/8 x 3/8",20180331,5708,B3RE0606BR,14.00,14.00,instock,14,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0606br,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5801,"B3 Recto Pulgada x Pulgada - 3/8 x 1/2",20180331,5708,B3RE0608BR,15.00,15.00,instock,15,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0608br,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5802,"B3 Recto Pulgada x Pulgada - 3/8 x 5/8",20180331,5708,B3RE0610BR,16.00,16.00,instock,16,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0610br,no,taxable,parent,,"Largo (B)	 5/8
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5803,"B3 Recto Pulgada x Pulgada - 1/2 x 1/4",20180331,5708,B3RE0804BR,17.00,17.00,instock,17,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0804br,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5804,"B3 Recto Pulgada x Pulgada - 1/2 x 5/16",20180331,5708,B3RE0805BR,18.00,18.00,instock,18,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0805br,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 1/2
+Material	Cobre
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5805,"B3 Recto Pulgada x Pulgada - 1/2 x 3/8",20180331,5708,B3RE0806BR,19.00,19.00,instock,19,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0806br,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5806,"B3 Recto Pulgada x Pulgada - 1/2 x 1/2",20180331,5708,B3RE0808BR,20.00,20.00,instock,20,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0808br,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5807,"B3 Recto Pulgada x Pulgada - 1/2 x 5/8",20180331,5708,B3RE0810BR,21.00,21.00,instock,21,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0810br,no,taxable,parent,,"Largo (B)	 5/8
+Ancho (A) 1/2
+Material	Cobre
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5808,"B3 Recto Pulgada x Pulgada - 1/2 x 3/4",20180331,5708,B3RE0812BR,22.00,22.00,instock,22,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0812br,no,taxable,parent,,"Largo (B)	 3/4
+Ancho (A) 1/2
+Material	Cobre
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5809,"B3 Recto Pulgada x Pulgada - 3/4 x 3/8",20180331,5708,B3RE1206BR,23.00,23.00,instock,23,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re1206br,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 3/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5810,"B3 Recto Pulgada x Pulgada - 3/4 x 1/2",20180331,5708,B3RE1208BR,24.00,24.00,instock,24,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re1208br,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 3/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5811,"B3 Recto Pulgada x Pulgada - 3/4 x 3/4",20180331,5708,B3RE1212BR,25.00,25.00,instock,25,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re1212br,no,taxable,parent,,"Largo (B)	 3/4
+Ancho (A) 3/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5812,"B3 Recto Milimétrico x Pulgada",20180331,0,"B3 RM",1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-milimetrico,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO-e1494553242925.png,B3-RECTO-e1494553242925.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO-e1494553242925.png"
+5813,"B3 Recto Milimétrico x Pulgada - 10MM X 1 x 1/4",20180331,5812,B3RE10-01BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0202br-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 10MM X 1
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5814,"B3 Recto Milimétrico x Pulgada - 10MM X 1,25 x 1/4",20180331,5812,B3RE10-02BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0203br-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 10MM X 1,25
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5815,"B3 Recto Milimétrico x Pulgada - 10MM X 1,50 x 1/4",20180331,5812,B3RE10-03BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0204br-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 10MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5816,"B3 Recto Milimétrico x Pulgada - 10MM X 1,50 x 3/8",20180331,5812,B3RE10-04BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0205br-2,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 10MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5817,"B3 Recto Milimétrico x Pulgada - 12MM X 1,50 x 1/4",20180331,5812,B3RE12-01BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0206br-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 12MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5818,"B3 Recto Milimétrico x Pulgada - 12MM X 1,50 x 3/8",20180331,5812,B3RE12-02BR,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0402br-2,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 12MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5819,"B3 Recto Milimétrico x Pulgada - 12MM X 1,25 x 1/2",20180331,5812,B3RE12-03BR,7.00,7.00,instock,7,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0404br-2,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 12MM X 1,25
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5820,"B3 Recto Milimétrico x Pulgada - 14MM X 1,25 x 1/4",20180331,5812,B3RE14-01BR,8.00,8.00,instock,8,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0405br-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 14MM X 1,25
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5821,"B3 Recto Milimétrico x Pulgada - 14MM X 1,50 x 1/4",20180331,5812,B3RE14-02BR,9.00,9.00,instock,9,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0406br-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 14MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5822,"B3 Recto Milimétrico x Pulgada - 14MM X 1,25 x 3/8",20180331,5812,B3RE14-03BR,10.00,10.00,instock,10,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0408br-2,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 14MM X 1,25
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5823,"B3 Recto Milimétrico x Pulgada - 14MM X 1,50 x 3/8",20180331,5812,B3RE14-04BR,11.00,11.00,instock,11,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0602br-2,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 14MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5824,"B3 Recto Milimétrico x Pulgada - 14MM X 1,25 x 1/2",20180331,5812,B3RE14-05BR,12.00,12.00,instock,12,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0604br-2,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 14MM X 1,25
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5825,"B3 Recto Milimétrico x Pulgada - 14MM X 1,50 x 1/2",20180331,5812,B3RE14-06BR,13.00,13.00,instock,13,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0605br-2,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 14MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5826,"B3 Recto Milimétrico x Pulgada - 16MM X 1,25 x 1/4",20180331,5812,B3RE16-01BR,14.00,14.00,instock,14,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0606br-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 16MM X 1,25
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5827,"B3 Recto Milimétrico x Pulgada - 16MM X 1,50 x 1/4",20180331,5812,B3RE16-02BR,15.00,15.00,instock,15,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0608br-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 16MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5828,"B3 Recto Milimétrico x Pulgada - 16MM X 1,25 x 3/8",20180331,5812,B3RE16-03BR,16.00,16.00,instock,16,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0610br-2,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 16MM X 1,25
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5829,"B3 Recto Milimétrico x Pulgada - 16MM X 1,50 x 3/8",20180331,5812,B3RE16-04BR,17.00,17.00,instock,17,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0804br-2,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 16MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5830,"B3 Recto Milimétrico x Pulgada - 16MM X 1,25 x 1/2",20180331,5812,B3RE16-05BR,18.00,18.00,instock,18,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0805br-2,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 16MM X 1,25
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5831,"B3 Recto Milimétrico x Pulgada - 16MM X 1,50 x 1/2",20180331,5812,B3RE16-06BR,19.00,19.00,instock,19,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0806br-2,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 16MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5832,"B3 Recto Milimétrico x Pulgada - 18MM X 1,50 x 1/4",20180331,5812,B3RE18-01BR,20.00,20.00,instock,20,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0808br-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 18MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5833,"B3 Recto Milimétrico x Pulgada - 18MM X 1,50 x 3/8",20180331,5812,B3RE18-02BR,21.00,21.00,instock,21,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0810br-2,no,taxable,parent,,"Largo (B)	3/8
+Ancho (A) 18MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5834,"B3 Recto Milimétrico x Pulgada - 18MM X 1,50 x 1/2",20180331,5812,B3RE18-03BR,22.00,22.00,instock,22,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re0812br-2,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 18MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5835,"B3 Recto Milimétrico x Pulgada - 20MM X 1,25 x 1/4",20180331,5812,B3RE20-01BR,23.00,23.00,instock,23,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re1206br-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 20MM X 1,25
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5836,"B3 Recto Milimétrico x Pulgada - 20MM X 1,50 x 1/4",20180331,5812,B3RE20-02BR,24.00,24.00,instock,24,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re1208br-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 20MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5837,"B3 Recto Milimétrico x Pulgada - 20MM X 1,25 x 3/8",20180331,5812,B3RE20-03BR,25.00,25.00,instock,25,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-b3re1212br-2,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 20MM X 1,25
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5838,"B3 Recto Milimétrico x Pulgada - 20MM X 1,50 x 3/8",20180331,5812,B3RE20-04BR,26.00,26.00,instock,26,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-milimetrico,no,taxable,parent,,"Largo (B)	3/8
+Ancho (A) 20MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5839,"B3 Recto Milimétrico x Pulgada - 20MM X 1,25 x 1/2",20180331,5812,B3RE20-05BR,27.00,27.00,instock,27,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-milimetrico-2,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 20MM X 1,25
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5840,"B3 Recto Milimétrico x Pulgada - 20MM X 1,50 x 1/2",20180331,5812,B3RE20-06BR,28.00,28.00,instock,28,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-milimetrico-3,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 20MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5841,"B3 Recto Milimétrico x Pulgada - 22MM X 1,50 x 1/4",20180331,5812,B3RE22-02BR,29.00,29.00,instock,29,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-milimetrico-4,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 22MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5842,"B3 Recto Milimétrico x Pulgada - 22MM X 1,50 x 3/8",20180331,5812,B3RE22-03BR,30.00,30.00,instock,30,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-milimetrico-5,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 22MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+5843,"B3 Codo Pulgada x Pulgada",20180331,0,"B3 CP",1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-CODO-e1494555610172.png,B3-CODO-e1494555610172.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-CODO-e1494555610172.png"
+5844,"B3 Codo Pulgada x Pulgada - 1/8 x 1/4",20180331,5843,B3CO0204BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0204br,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5845,"B3 Codo Pulgada x Pulgada - 1/8 x 5/16",20180331,5843,B3CO0205BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0205br,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5846,"B3 Codo Pulgada x Pulgada - 1/8 x 3/8",20180331,5843,B3CO0206BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0206br,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5847,"B3 Codo Pulgada x Pulgada - 1/4x1/4",20180331,5843,B3CO0404BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0404br,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5848,"B3 Codo Pulgada x Pulgada - 1/4 x 5/16",20180331,5843,B3CO0405BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0405br,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5849,"B3 Codo Pulgada x Pulgada - 1/4 x 3/8",20180331,5843,B3CO0406BR,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0406br,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5850,"B3 Codo Pulgada x Pulgada - 1/4 x 1/2",20180331,5843,B3CO0408BR,7.00,7.00,instock,7,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0408br,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5851,"B3 Codo Pulgada x Pulgada - 3/8 x 1/4",20180331,5843,B3CO0604BR,8.00,8.00,instock,8,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0604br,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5852,"B3 Codo Pulgada x Pulgada - 3/8 x 5/16",20180331,5843,B3CO0605BR,9.00,9.00,instock,9,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0605br,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5853,"B3 Codo Pulgada x Pulgada - 3/8 x 3/8",20180331,5843,B3CO0606BR,10.00,10.00,instock,10,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0606br,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5854,"B3 Codo Pulgada x Pulgada - 3/8 x 1/2",20180331,5843,B3CO0608BR,11.00,11.00,instock,11,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0608br,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5855,"B3 Codo Pulgada x Pulgada - 3/8 x 5/8",20180331,5843,B3CO0610BR,12.00,12.00,instock,12,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0610br,no,taxable,parent,,"Largo (B)	 5/8
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5856,"B3 Codo Pulgada x Pulgada - 1/2 x 1/4",20180331,5843,B3CO0804BR,13.00,13.00,instock,13,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0804br,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5857,"B3 Codo Pulgada x Pulgada - 1/2 x 5/16",20180331,5843,B3CO0805BR,14.00,14.00,instock,14,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0805br,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5858,"B3 Codo Pulgada x Pulgada - 1/2 x 3/8",20180331,5843,B3CO0806BR,15.00,15.00,instock,15,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0806br,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5859,"B3 Codo Pulgada x Pulgada - 1/2 x 1/2",20180331,5843,B3CO0808BR,16.00,16.00,instock,16,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0808br,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5860,"B3 Codo Pulgada x Pulgada - 1/2 x 5/8",20180331,5843,B3CO0810BR,17.00,17.00,instock,17,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0810br,no,taxable,parent,,"Largo (B)	 5/8
+Ancho (A) 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5861,"B3 Codo Pulgada x Pulgada - 1/2 x 3/4",20180331,5843,B3CO0812BR,18.00,18.00,instock,18,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0812br,no,taxable,parent,,"Largo (B)	 3/4
+Ancho (A) 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5864,"B3 Codo Milimétrico x Pulgada",20180401,0,"B3 CM",1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-CODO-e1494555610172.png,B3-CODO-e1494555610172.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-CODO-e1494555610172.png"
+5893,"B3 Codo 90° Espiga x Espiga",20180401,0,"B3 C90",1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-90-espiga-x-espiga,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-CODO-ESPIGA-e1494556525948.png,B3-CODO-ESPIGA-e1494556525948.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-CODO-ESPIGA-e1494556525948.png"
+5894,"B3 Codo 90° Espiga x Espiga - 1/8 x 5/16",20180331,5893,B3CE0205BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0204br-3,no,taxable,parent,,"Largo (B)	 1/8
+Ancho (A) 5/16
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5895,"B3 Codo 90° Espiga x Espiga - 3/16 x 3/16",20180331,5893,B3CE0303BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0205br-3,no,taxable,parent,,"Largo (B)	 3/16
+Ancho (A) 3/16
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5896,"B3 Codo 90° Espiga x Espiga - 3/16 x 1/4",20180331,5893,B3CE0304BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0206br-3,no,taxable,parent,,"Largo (B)	1/4
+Ancho (A) 3/16
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5897,"B3 Codo 90° Espiga x Espiga - 1/4 x 1/4",20180331,5893,B3CE0404BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0404br-3,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5898,"B3 Codo 90° Espiga x Espiga - 1/4 x 5/16",20180331,5893,B3CE0405BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0405br-3,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5899,"B3 Codo 90° Espiga x Espiga - 1/4 x 3/8",20180331,5893,B3CE0406BR,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0406br-3,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5900,"B3 Codo 90° Espiga x Espiga - 5/16 x 5/16",20180331,5893,B3CE0505BR,7.00,7.00,instock,7,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0408br-3,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 5/16
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5901,"B3 Codo 90° Espiga x Espiga - 5/16 x 3/8",20180331,5893,B3CE0506BR,8.00,8.00,instock,8,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0604br-3,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 5/16
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5902,"B3 Codo 90° Espiga x Espiga - 3/8 x 3/8",20180331,5893,B3CE0606BR,9.00,9.00,instock,9,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0605br-3,no,taxable,parent,,"Largo (B)	3/8
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5903,"B3 Codo 90° Espiga x Espiga - 3/8 x 1/2",20180331,5893,B3CE0608BR,10.00,10.00,instock,10,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0606br-3,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5904,"B3 Codo 90° Espiga x Espiga - 1/2 x 1/2",20180331,5893,B3CE0808BR,11.00,11.00,instock,11,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0608br-3,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5915,"B3 Codo 90° Espiga x Espiga Duraluminio",20180401,0,"B3 C90D",1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-90-espiga-x-espiga-duraluminio,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-CODO-ESPIGA-DURAL-e1494556774449.png,B3-CODO-ESPIGA-DURAL-e1494556774449.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-CODO-ESPIGA-DURAL-e1494556774449.png"
+5916,"B3 Codo 90° Espiga x Espiga Duraluminio - 3/16 x 3/16",20180331,5915,B3CE0303AL,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0204br-3-2,no,taxable,parent,,"Largo (B)	 3/16
+Ancho (A) 3/16
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5917,"B3 Codo 90° Espiga x Espiga Duraluminio - 3/16 x 1/4",20180331,5915,B3CE0304AL,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0205br-3-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 3/16
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5918,"B3 Codo 90° Espiga x Espiga Duraluminio - 1/4 x 1/4",20180331,5915,B3CE0404AL,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0206br-3-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 1/4
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5919,"B3 Codo 90° Espiga x Espiga Duraluminio - 1/4 x 5/16",20180331,5915,B3CE0405AL,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0404br-3-2,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 1/4
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5920,"B3 Codo 90° Espiga x Espiga Duraluminio - 1/4 x 3/8",20180331,5915,B3CE0406AL,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0405br-3-2,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 1/4
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5921,"B3 Codo 90° Espiga x Espiga Duraluminio - 5/16 x 5/16",20180331,5915,B3CE0505AL,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0406br-3-2,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 5/16
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5922,"B3 Codo 90° Espiga x Espiga Duraluminio - 5/16 x 3/8",20180331,5915,B3CE0506AL,7.00,7.00,instock,7,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0408br-3-2,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 5/16
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5923,"B3 Codo 90° Espiga x Espiga Duraluminio - 3/8 x 3/8",20180331,5915,B3CE0606AL,8.00,8.00,instock,8,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0604br-3-2,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 3/8
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5924,"B3 Codo 90° Espiga x Espiga Duraluminio - 3/8 x 1/2",20180331,5915,B3CE0608AL,9.00,9.00,instock,9,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0605br-3-2,no,taxable,parent,,"Largo (B)	1/2
+Ancho (A) 3/8
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+5925,"B3 Codo 90° Espiga x Espiga Duraluminio - 1/2 x 1/2",20180331,5915,B3CE0808AL,10.00,10.00,instock,10,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0606br-3-2,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 1/2
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg,B3-Codo-90°-Espiga-x-Espiga.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-Codo-90°-Espiga-x-Espiga.jpg"
+5927,"B4 Cruceta",20180401,0,"B3 CR",1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b4-cruceta,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B4-CRUCETA-e1494557621743.png,B4-CRUCETA-e1494557621743.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B4-CRUCETA-e1494557621743.png"
+5928,"B4 Cruceta - 3/16 x 3/16",20180331,5927,B4CR0303BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0204br-3-3,no,taxable,parent,,"Largo (B)	 3/16
+Ancho (A) 3/16
+Material	Cobre
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5929,"B4 Cruceta - 1/4 x 1/4",20180331,5927,B4CR0404BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0205br-3-3,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 1/4
+Material	Cobre
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5930,"B4 Cruceta - 5/16 x 5/16",20180331,5927,B4CR0505BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0206br-3-3,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 5/16
+Material	Cobre
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5931,"B4 Cruceta - 3/8 x 3/8",20180331,5927,B4CR0606BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0404br-3-3,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 3/8
+Material	Cobre
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5932,"B4 Cruceta - 1/2 x 1/2",20180331,5927,B4CR0808BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0405br-3-3,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 1/2
+Material	Cobre
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5939,"B4 Cruceta Duraluminio",20180401,0,"B3 CRD",1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b4-cruceta-duraluminio,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B4-CRUCETA-DURAL-e1494557726992.png,B4-CRUCETA-DURAL-e1494557726992.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B4-CRUCETA-DURAL-e1494557726992.png"
+5940,"B4 Cruceta Duraluminio - 3/16 x 3/16",20180331,5939,B4CR0303AL,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0204br-3-3-2,no,taxable,parent,,"Largo (B)	 3/16
+Ancho (A) 3/16
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5941,"B4 Cruceta Duraluminio - 1/4 x 1/4",20180331,5939,B4CR0404AL,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0205br-3-3-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 1/4
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5942,"B4 Cruceta Duraluminio - 5/16 x 5/16",20180331,5939,B4CR0505AL,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0206br-3-3-2,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 5/16
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5943,"B4 Cruceta Duraluminio - 3/8 x 3/8",20180331,5939,B4CR0606AL,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0404br-3-3-2,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 3/8
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5944,"B4 Cruceta Duraluminio - 1/2 x 1/2",20180331,5939,B4CR0808AL,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0405br-3-3-2,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 1/2
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5945,"B4 Tee",20180401,0,"B4 T",1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b4-tee,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B4-TEE-e1494557048921.png,B4-TEE-e1494557048921.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B4-TEE-e1494557048921.png"
+5946,"B4 Tee - 3/16 x 3/16",20180331,5945,B4TE0303BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0204br-3-3-2-2,no,taxable,parent,,"Largo (B)	 3/16
+Ancho (A) 3/16
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5947,"B4 Tee - 1/4 x 1/4",20180331,5945,B4TE0404BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0205br-3-3-2-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5948,"B4 Tee - 5/16 x 5/16",20180331,5945,B4TE0505BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0206br-3-3-2-2,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 5/16
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5949,"B4 Tee - 3/8 x 3/8",20180331,5945,B4TE0606BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0404br-3-3-2-2,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5950,"B4 Tee - 1/2 x 1/2",20180331,5945,B4TE0808BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0405br-3-3-2-2,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5951,"B4 Tee Duraluminio",20180401,0,"B4 TD",1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b4-tee-duraluminio,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-TEE-DURAL-e1494557180646.png,B3-TEE-DURAL-e1494557180646.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-TEE-DURAL-e1494557180646.png"
+5952,"B4 Tee Duraluminio - 3/16 x 3/16",20180331,5951,B4TE0303AL,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0204br-3-3-2-2-2,no,taxable,parent,,"Largo (B)	 3/16
+Ancho (A) 3/16
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5953,"B4 Tee Duraluminio - 1/4 x 1/4",20180331,5951,B4TE0404AL,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0205br-3-3-2-2-2,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 1/4
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5954,"B4 Tee Duraluminio - 5/16 x 5/16",20180331,5951,B4TE0505AL,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0206br-3-3-2-2-2,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 5/16
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5955,"B4 Tee Duraluminio - 3/8 x 3/8",20180331,5951,B4TE0606AL,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0404br-3-3-2-2-2,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 3/8
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5956,"B4 Tee Duraluminio - 1/2 x 1/2",20180331,5951,B4TE0808AL,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0405br-3-3-2-2-2,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 1/2
+Material	Aluminio
+Color	Aluminio
+Acabado	Mate
+No. de piezas	10",a:0:{},0,0,,,
+5957,"B4 Yee",20180401,0,"B4 Y",1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b4-yee,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B4-YEE-e1494557299883.png,B4-YEE-e1494557299883.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B4-YEE-e1494557299883.png"
+5958,"B4 Yee - 3/16 x 3/16",20180331,5957,B4YE0303BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0204br-3-3-2-2-3,no,taxable,parent,,"Largo (B)	 3/16
+Ancho (A) 3/16
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5959,"B4 Yee - 1/4 x 1/4",20180331,5957,B4YE0404BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0205br-3-3-2-2-3,no,taxable,parent,,"Largo (B)	 1/4
+Ancho (A) 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5960,"B4 Yee - 5/16 x 5/16",20180331,5957,B4YE0505BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0206br-3-3-2-2-3,no,taxable,parent,,"Largo (B)	 5/16
+Ancho (A) 5/16
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5961,"B4 Yee - 3/8 x 3/8",20180331,5957,B4YE0606BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0404br-3-3-2-2-3,no,taxable,parent,,"Largo (B)	 3/8
+Ancho (A) 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5962,"B4 Yee - 1/2 x 1/2",20180331,5957,B4YE0808BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0405br-3-3-2-2-3,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5966,"B5 Carburador",20180401,0,B5,1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b5-carburador,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/04/B5.jpg,B5.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/04/B5.jpg"
+5967,"B5 Carburador - 5/16 x 5/16 R/F (1/2 - 24H) corto",20180331,5966,B5CO0505BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0204br-3-4,no,taxable,parent,,"Flare Invertido - (A)	 5/16
+Flare - (B)  5/16 R/F (1/2 - 24H) corto
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5968,"B5 Carburador - 5/16 x 5/16 R/F (1/2 - 24H) largo",20180331,5966,B5LA0505BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0205br-3-4,no,taxable,parent,,"Flare Invertido - (A)	 5/16
+Flare - (B)  5/16 R/F (1/2 - 24H) largo
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5969,"B5 Carburador - 5/16 x 3/8 (5/8 - 18H)",20180331,5966,B5CO0506BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0206br-3-4,no,taxable,parent,,"Flare Invertido - (A)	5/16
+Flare - (B)  3/8 (5/8 - 18H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5970,"B5 Carburador - 3/8 x 3/8 R/F (9/16 - 24H) corto",20180331,5966,B5CO0606BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0404br-3-4,no,taxable,parent,,"Flare Invertido - (A)	3/8
+Flare - (B)  3/8 R/F (9/16 - 24H) corto
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5971,"B5 Carburador - 3/8 x 3/8 R/F (9/16 - 24H) largo",20180331,5966,B5LA0606BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0405br-3-4,no,taxable,parent,,"Flare Invertido - (A)	3/8
+Flare - (B)  3/8 R/F (9/16 - 24H) largo
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5979,"B11 Tuerca Flare",20180401,0,B11,1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b11-tuerca-flare,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B11-e1494894085763.png,B11-e1494894085763.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B11-e1494894085763.png"
+5980,"B11 Tuerca Flare - B110202BR",20180331,5979,B110202BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0204br-3-4-2,no,taxable,parent,,"Flare - 1/8 (5/16 - 24H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5981,"B11 Tuerca Flare - B110303BR",20180331,5979,B110303BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0205br-3-4-2,no,taxable,parent,,"Flare - 3/16 (3/8 - 24H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5982,"B11 Tuerca Flare - B110404BR",20180331,5979,B110404BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0206br-3-4-2,no,taxable,parent,,"Flare - 1/4 (7/16 - 24H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5983,"B11 Tuerca Flare - B110505BR",20180331,5979,B110505BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0404br-3-4-2,no,taxable,parent,,"Flare - 5/16 (1/2 - 20H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5984,"B11 Tuerca Flare - B110606BR",20180331,5979,B110606BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0405br-3-4-2,no,taxable,parent,,"Flare - 3/8 (9/16 - 20H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5985,"B11 Tuerca Flare - B110808BR",20180401,5979,B110808BR,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b11-tuerca-flare,no,taxable,parent,,"Flare - 1/2 (3/4 - 18H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5986,"B12 Convertidor Flare x NPT",20180401,0,B12,1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b12-convertidor-flare-x-npt,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B12-e1494894304123.png,B12-e1494894304123.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B12-e1494894304123.png"
+5987,"B12 Convertidor Flare x NPT - B120202BR",20180331,5986,B120202BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0204br-3-4-3,no,taxable,parent,,"Flare - (A) - 1/8 (5/16 - 24H)
+NPT  - (B) -  1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5988,"B12 Convertidor Flare x NPT - B120302BR",20180331,5986,B120302BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0205br-3-4-3,no,taxable,parent,,"Flare - (A) - 3/16 (3/8 - 24H)
+NPT  - (B) -  1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5989,"B12 Convertidor Flare x NPT - B120304BR",20180331,5986,B120304BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0206br-3-4-3,no,taxable,parent,,"Flare - (A) - 3/16 (3/8 - 24H)
+NPT  - (B) -  1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5990,"B12 Convertidor Flare x NPT - B120402BR",20180331,5986,B120402BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0404br-3-4-3,no,taxable,parent,,"Flare - (A) - 1/4 (7/16 - 20H)
+NPT  - (B) -  1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5991,"B12 Convertidor Flare x NPT - B120404BR",20180331,5986,B120404BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0405br-3-4-3,no,taxable,parent,,"Flare - (A) - 1/4 (7/16 - 20H)
+NPT  - (B) -  1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5992,"B12 Convertidor Flare x NPT - B120502BR",20180401,5986,B120502BR,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b12-convertidor-flare-x-npt,no,taxable,parent,,"Flare - (A) - 5/16 (1/2 - 20H)
+NPT  - (B) -  1/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5993,"B12 Convertidor Flare x NPT - B120504BR",20180401,5986,B120504BR,7.00,7.00,instock,7,visible,variable,"Conexiones en Bronce y Aluminio",publish,b12-convertidor-flare-x-npt-2,no,taxable,parent,,"Flare - (A) - 5/16 (1/2 - 20H)
+NPT  - (B) -  1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5994,"B12 Convertidor Flare x NPT - B120604BR",20180401,5986,B120604BR,8.00,8.00,instock,8,visible,variable,"Conexiones en Bronce y Aluminio",publish,b12-convertidor-flare-x-npt-3,no,taxable,parent,,"Flare - (A) - 3/8 (5/8 - 18H)
+NPT  - (B) -  1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5995,"B12 Convertidor Flare x NPT - B120606BR",20180401,5986,B120606BR,9.00,9.00,instock,9,visible,variable,"Conexiones en Bronce y Aluminio",publish,b12-convertidor-flare-x-npt-4,no,taxable,parent,,"Flare - (A) - 3/8 (5/8 - 18H)
+NPT  - (B) -  3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5996,"B12 Convertidor Flare x NPT - B120806BR",20180401,5986,B120806BR,10.00,10.00,instock,10,visible,variable,"Conexiones en Bronce y Aluminio",publish,b12-convertidor-flare-x-npt-5,no,taxable,parent,,"Flare - (A) - 1/2 (3/4 - 16H)
+NPT  - (B) -  3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5997,"B12 Convertidor Flare x NPT - B121006BR",20180401,5986,B121006BR,12.00,12.00,instock,12,visible,variable,"Conexiones en Bronce y Aluminio",publish,b12-convertidor-flare-x-npt-6,no,taxable,parent,,"Flare - (A) - 5/8 (7/8 - 14H)
+NPT  - (B) -  3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+5999,"B20 Tapón Flare Invertido (41W)",20180402,0,B20,1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b20-tapon-flare-invertido-41w,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B20-e1494894665914.png,B20-e1494894665914.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B20-e1494894665914.png"
+6000,"B20 Tapón Flare Invertido (41W) - 3/16 (3/8 - 24H)",20180401,5999,B2003BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b11-tuerca-flare-2,no,taxable,parent,,"Flare Invertido - 3/16 (3/8 - 24H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+6001,"B20 Tapón Flare Invertido (41W) - 1/4 (7/16 - 24H)",20180331,5999,B2004BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0204br-3-4-2-2,no,taxable,parent,,"Flare Invertido - 1/4 (7/16 - 24H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+6002,"B20 Tapón Flare Invertido (41W) - 5/16 (1/2 - 20H)",20180331,5999,B2005BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0205br-3-4-2-2,no,taxable,parent,,"Flare Invertido - 5/16 (1/2 - 20H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+6003,"B20 Tapón Flare Invertido (41W) - 3/8 (5/8 - 18H)",20180331,5999,B2006BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0206br-3-4-2-2,no,taxable,parent,,"Flare Invertido - 3/8 (5/8 - 18H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+6004,"B20 Tapón Flare Invertido (41W) - 1/2 (3/4 - 18H)",20180331,5999,B2008BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0404br-3-4-2-2,no,taxable,parent,,"Flare Invertido - 1/2 (3/4 - 18H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+6005,"B20 Tapón Flare Invertido (41W) - 10mm X 1",20180331,5999,B20-1001BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0405br-3-4-2-2,no,taxable,parent,,"Flare Invertido - 10mm X 1
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+6006,"B20 Tapón Flare Invertido (41W) - 10mm X 1,25",20180402,5999,B20-1002BR,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b20-tapon-flare-invertido-41w,no,taxable,parent,,"Flare Invertido - 10mm X 1,25
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+6014,"B3 Recto Milimétrico x Pulgada - 22MM X 1,50 x 1/2",20180415,5812,,31.00,31.00,instock,31,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-recto-milimetrico-x-pulgada,no,taxable,parent,,"Largo (B)	 1/2
+Ancho (A) 22MM X 1,50
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg,B3-RECTO.jpg,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B3-RECTO.jpg"
+6016,"B3 Codo Milimétrico x Pulgada - 10MM X 1 x 1/4",20180415,5864,B3CO10-01BR,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-10mm-x-1-x-1-4,no,taxable,parent,,"Ancho (A) 10MM X 1
+Largo (B)	 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6017,"B3 Codo Milimétrico x Pulgada - 10MM X 1,25 x 1/4",20180415,5864,B3CO10-02BR,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-10mm-x-125-x-1-4,no,taxable,parent,,"Ancho (A) 10MM X 1,25
+Largo (B)	 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6018,"B3 Codo Milimétrico x Pulgada - 10MM X 1,50 x 1/4",20180415,5864,B3CO10-03BR,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-10mm-x-150-x-1-4,no,taxable,parent,,"Ancho (A) 10MM X 1,50
+Largo (B)	 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6019,"B3 Codo Milimétrico x Pulgada - 10MM X 1 x 3/8",20180415,5864,B3CO10-04BR,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-10mm-x-1-x-3-8,no,taxable,parent,,"Ancho (A) 10MM X 1
+Largo (B)	 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6020,"B3 Codo Milimétrico x Pulgada - 10MM X 1,25 x 3/8",20180415,5864,B3CO10-05BR,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-10mm-x-125-x-3-8,no,taxable,parent,,"Ancho (A) 10MM X 1,25
+Largo (B)	 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6021,"B3 Codo Milimétrico x Pulgada - 10MM X 1,50 x 3/8",20180415,5864,B3CO10-06BR,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-10mm-x-150-x-3-8,no,taxable,parent,,"Ancho (A) 10MM X 1,50
+Largo (B)	 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6022,"B3 Codo Milimétrico x Pulgada - 12MM X 1,50 x 1/4",20180415,5864,B3CO12-01BR,7.00,7.00,instock,7,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-12mm-x-150-x-1-4,no,taxable,parent,,"Ancho (A) 12MM X 1,50
+Largo (B)	 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6023,"B3 Codo Milimétrico x Pulgada - 12MM X 1,50 x 3/8",20180415,5864,B3CO12-02BR,8.00,8.00,instock,8,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-12mm-x-150-x-3-8,no,taxable,parent,,"Ancho (A) 12MM X 1,50
+Largo (B)	 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6024,"B3 Codo Milimétrico x Pulgada - 12MM X 1,25 x 1/2",20180415,5864,B3CO12-03BR,9.00,9.00,instock,9,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-12mm-x-125-x-1-2,no,taxable,parent,,"Ancho (A) 12MM X 1,25
+Largo (B)	 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6025,"B3 Codo Milimétrico x Pulgada - 12MM X 1,50 x 1/2",20180415,5864,B3CO12-04BR,10.00,10.00,instock,10,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-12mm-x-150-x-1-2,no,taxable,parent,,"Ancho (A) 12MM X 1,50
+Largo (B)	 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6026,"B3 Codo Milimétrico x Pulgada - 14MM X 1,25 x 1/4",20180415,5864,B3CO14-01BR,11.00,11.00,instock,11,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-14mm-x-125-x-1-4,no,taxable,parent,,"Ancho (A) 14MM X 1,25
+Largo (B)	 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6027,"B3 Codo Milimétrico x Pulgada - 14MM X 1,50 x 1/4",20180415,5864,B3CO14-02BR,12.00,12.00,instock,12,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-14mm-x-150-x-1-4,no,taxable,parent,,"Ancho (A) 14MM X 1,50
+Largo (B)	 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6028,"B3 Codo Milimétrico x Pulgada - 14MM X 1,25 x 3/8",20180415,5864,B3CO14-03BR,13.00,13.00,instock,13,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-14mm-x-125-x-3-8,no,taxable,parent,,"Ancho (A) 14MM X 1,25
+Largo (B)	 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6029,"B3 Codo Milimétrico x Pulgada - 14MM X 1,50 x 3/8",20180415,5864,B3CO14-04BR,14.00,14.00,instock,14,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-14mm-x-150-x-3-8,no,taxable,parent,,"Ancho (A) 14MM X 1,50
+Largo (B)	 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6030,"B3 Codo Milimétrico x Pulgada - 14MM X 1,25 x 1/2",20180415,5864,B3CO14-05BR,15.00,15.00,instock,15,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-14mm-x-125-x-1-2,no,taxable,parent,,"Ancho (A) 14MM X 1,25
+Largo (B)	 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6031,"B3 Codo Milimétrico x Pulgada - 14MM X 1,50 x 1/2",20180415,5864,B3CO14-06BR,16.00,16.00,instock,16,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-14mm-x-150-x-1-2,no,taxable,parent,,"Ancho (A) 14MM X 1,50
+Largo (B)	 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6032,"B3 Codo Milimétrico x Pulgada - 16MM X 1,25 x 1/4",20180415,5864,B3CO16-01BR,17.00,17.00,instock,17,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-16mm-x-125-x-1-4,no,taxable,parent,,"Ancho (A) 16MM X 1,25
+Largo (B)	 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6033,"B3 Codo Milimétrico x Pulgada - 16MM X 1,50 x 1/4",20180415,5864,B3CO16-02BR,18.00,18.00,instock,18,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-16mm-x-150-x-1-4,no,taxable,parent,,"Ancho (A) 16MM X 1,50
+Largo (B)	 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6034,"B3 Codo Milimétrico x Pulgada - 16MM X 1,25 x 3/8",20180415,5864,B3CO16-03BR,19.00,19.00,instock,19,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-16mm-x-125-x-3-8,no,taxable,parent,,"Ancho (A) 16MM X 1,25
+Largo (B)	 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6035,"B3 Codo Milimétrico x Pulgada - 16MM X 1,50 x 3/8",20180415,5864,B3CO16-04BR,20.00,20.00,instock,20,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-16mm-x-150-x-3-8,no,taxable,parent,,"Ancho (A) 16MM X 1,50
+Largo (B)	 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6036,"B3 Codo Milimétrico x Pulgada - 16MM X 1,50 x 1/2",20180415,5864,B3CO16-05BR,21.00,21.00,instock,21,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-16mm-x-150-x-1-2,no,taxable,parent,,"Ancho (A) 16MM X 1,50
+Largo (B)	 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6037,"B3 Codo Milimétrico x Pulgada - 18MM X 1,50 x 3/8",20180415,5864,B3CO18-01BR,22.00,22.00,instock,22,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-18mm-x-150-x-3-8,no,taxable,parent,,"Ancho (A) 18MM X 1,50
+Largo (B)	 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6038,"B3 Codo Milimétrico x Pulgada - 18MM X 1,50 x 1/2",20180415,5864,B3CO18-02BR,23.00,23.00,instock,23,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-18mm-x-150-x-1-2,no,taxable,parent,,"Ancho (A) 18MM X 1,50
+Largo (B)	 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6039,"B3 Codo Milimétrico x Pulgada - 20MM X 1,50 x 1/4",20180415,5864,B3CO20-01BR,24.00,24.00,instock,24,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-20mm-x-150-x-1-4,no,taxable,parent,,"Ancho (A) 20MM X 1,50
+Largo (B)	 1/4
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6040,"B3 Codo Milimétrico x Pulgada - 20MM X 1,50 x 3/8",20180415,5864,B3CO20-02BR,25.00,25.00,instock,25,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-20mm-x-150-x-3-8,no,taxable,parent,,"Ancho (A) 20MM X 1,50
+Largo (B)	 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6041,"B3 Codo Milimétrico x Pulgada - 20MM X 1,50 x 1/2",20180415,5864,B3CO20-03BR,26.00,26.00,instock,26,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-20mm-x-150-x-1-2,no,taxable,parent,,"Ancho (A) 20MM X 1,50
+Largo (B)	 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6042,"B3 Codo Milimétrico x Pulgada - 22MM X 1,50 x 3/8",20180415,5864,B3CO22-01BR,27.00,27.00,instock,27,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-22mm-x-150-x-3-8,no,taxable,parent,,"Ancho (A) 22MM X 1,50
+Largo (B)	 3/8
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6043,"B3 Codo Milimétrico x Pulgada - 22MM X 1,50 x 1/2",20180415,5864,B3CO22-02BR,28.00,28.00,instock,28,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-milimetrico-x-pulgada-22mm-x-150-x-1-2,no,taxable,parent,,"Ancho (A) 22MM X 1,50
+Largo (B)	 1/2
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/Imagen1.png,Imagen1.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/Imagen1.png"
+6048,"B5 Carburador - 3/8 x 5/8 (18H)",20180416,5966,B5CO0610BR,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b5-carburador,no,taxable,parent,,"Flare Invertido - (A)	3/8
+Flare - (B)  5/8 (18H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+6055,"B20 Tapón Flare Invertido Acero (41W)",20180522,0,B20A,1.00,,instock,,visible,variable,"Conexiones en Bronce y Aluminio",publish,b20-tapon-flare-invertido-acero-41w,no,taxable,standard,,,a:0:{},0,0,http://localhost/wordpress/wp-content/uploads/2018/03/B20-ACERO-e1494895386243.png,B20-ACERO-e1494895386243.png,"C:\xampp\htdocs\wordpress/wp-content/uploads/2018/03/B20-ACERO-e1494895386243.png"
+6056,"B20 Tapón Flare Invertido Acero (41W) - 3/16 (3/8 - 24H)",20180401,6055,B2003AC,1.00,1.00,instock,1,visible,variable,"Conexiones en Bronce y Aluminio",publish,b11-tuerca-flare-2-2,no,taxable,parent,,"Flare Invertido - 3/16 (3/8 - 24H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+6057,"B20 Tapón Flare Invertido Acero (41W) - 1/4 (7/16 - 24H)",20180331,6055,B2004AC,2.00,2.00,instock,2,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0204br-3-4-2-2-2,no,taxable,parent,,"Flare Invertido - 1/4 (7/16 - 24H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+6058,"B20 Tapón Flare Invertido Acero (41W) - 5/16 (1/2 - 20H)",20180331,6055,B2005AC,3.00,3.00,instock,3,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0205br-3-4-2-2-2,no,taxable,parent,,"Flare Invertido - 5/16 (1/2 - 20H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+6059,"B20 Tapón Flare Invertido Acero (41W) - 3/8 (5/8 - 18H)",20180331,6055,B2006AC,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0206br-3-4-2-2-2,no,taxable,parent,,"Flare Invertido - 3/8 (5/8 - 18H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+6060,"B20 Tapón Flare Invertido Acero (41W) - 1/2 (3/4 - 18H)",20180331,6055,B2008AC,4.00,4.00,instock,4,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0404br-3-4-2-2-2,no,taxable,parent,,"Flare Invertido - 1/2 (3/4 - 18H)
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+6061,"B20 Tapón Flare Invertido Acero (41W) - 10mm X 1",20180331,6055,B20-1001AC,5.00,5.00,instock,5,visible,variable,"Conexiones en Bronce y Aluminio",publish,b3-codo-b3co0405br-3-4-2-2-2,no,taxable,parent,,"Flare Invertido - 10mm X 1
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
+6062,"B20 Tapón Flare Invertido Acero (41W) - 10mm X 1,25",20180402,6055,B20-1002AC,6.00,6.00,instock,6,visible,variable,"Conexiones en Bronce y Aluminio",publish,b20-tapon-flare-invertido-41w-2,no,taxable,parent,,"Flare Invertido - 10mm X 1,25
+Material	Bronce
+Color	Dorado
+Acabado	Brillo
+No. de piezas	10",a:0:{},0,0,,,
